@@ -1,0 +1,1976 @@
+[
+  {
+    "day": "Monday",
+    "subject": "Introduction to Research Methods",
+    "courseCode": "EN216",
+    "time": "9-11",
+    "room": "305"
+  },
+  {
+    "day": "Monday",
+    "subject": "Literatures of the Indian Subcontinent A",
+    "courseCode": "EN201 A",
+    "time": "9-11",
+    "room": "CR-1"
+  },
+  {
+    "day": "Monday",
+    "subject": "Principles of Microeconomics B",
+    "courseCode": "EC101 B",
+    "time": "9-11",
+    "room": "WS2-B"
+  },
+  {
+    "day": "Monday",
+    "subject": "Food and Society",
+    "courseCode": "SC832",
+    "time": "9-11",
+    "room": "CR-3"
+  },
+  {
+    "day": "Monday",
+    "subject": "American Literature",
+    "courseCode": "EN205",
+    "time": "9-11",
+    "room": "CR-4"
+  },
+  {
+    "day": "Monday",
+    "subject": "Literary Theory",
+    "courseCode": "EN211",
+    "time": "9-11",
+    "room": "CR-5"
+  },
+  {
+    "day": "Monday",
+    "subject": "Literatures of the Indian Subcontinent B",
+    "courseCode": "EN201 B",
+    "time": "9-11",
+    "room": "CR-10"
+  },
+  {
+    "day": "Monday",
+    "subject": "Hindi Sahitya Itihas ki Rooprekha",
+    "courseCode": "AE047",
+    "time": "9-11",
+    "room": "SSR1"
+  },
+  {
+    "day": "Monday",
+    "subject": "Advanced Linear Algebra",
+    "courseCode": "MA545",
+    "time": "9-11",
+    "room": "SSR2"
+  },
+  {
+    "day": "Monday",
+    "subject": "Western Political Thought B",
+    "courseCode": "PO604 B",
+    "time": "9-11",
+    "room": "SSR3"
+  },
+  {
+    "day": "Monday",
+    "subject": "Analysis II",
+    "courseCode": "MA505",
+    "time": "9-11",
+    "room": "N4"
+  },
+  {
+    "day": "Monday",
+    "subject": "Western Political Thought A",
+    "courseCode": "PO604 A",
+    "time": "9-11",
+    "room": "N5"
+  },
+  {
+    "day": "Monday",
+    "subject": "Principles of Microeconomics A",
+    "courseCode": "EC101 A",
+    "time": "9-11",
+    "room": "CR-11"
+  },
+  {
+    "day": "Monday",
+    "subject": "Introduction to Global IR: Non-Western Perspective",
+    "courseCode": "PO614",
+    "time": "9-11",
+    "room": "NL2"
+  },
+  {
+    "day": "Monday",
+    "subject": "Statistical Methods for Economics",
+    "courseCode": "EC104",
+    "time": "11-1",
+    "room": "305"
+  },
+  {
+    "day": "Monday",
+    "subject": "Understanding Cinema",
+    "courseCode": "EN236",
+    "time": "11-1",
+    "room": "CR-1"
+  },
+  {
+    "day": "Monday",
+    "subject": "The Epic",
+    "courseCode": "EN204",
+    "time": "11-1",
+    "room": "WS2-B"
+  },
+  {
+    "day": "Monday",
+    "subject": "Algebra II",
+    "courseCode": "MA506",
+    "time": "11-1",
+    "room": "CR-3"
+  },
+  {
+    "day": "Monday",
+    "subject": "Social Movements",
+    "courseCode": "SC811",
+    "time": "11-1",
+    "room": "CR-4"
+  },
+  {
+    "day": "Monday",
+    "subject": "Research Methods for Political Science",
+    "courseCode": "PO615",
+    "time": "11-1",
+    "room": "CR-5"
+  },
+  {
+    "day": "Monday",
+    "subject": "History of Science Technology and Medicine",
+    "courseCode": "HS414",
+    "time": "11-1",
+    "room": "SSR1"
+  },
+  {
+    "day": "Monday",
+    "subject": "Public Economics: Theory and Policy",
+    "courseCode": "EC111",
+    "time": "11-1",
+    "room": "SSR2"
+  },
+  {
+    "day": "Monday",
+    "subject": "Advanced Differential Equations",
+    "courseCode": "MA544",
+    "time": "11-1",
+    "room": "SSR3"
+  },
+  {
+    "day": "Monday",
+    "subject": "Neuropsychology",
+    "courseCode": "PS711",
+    "time": "11-1",
+    "room": "N4"
+  },
+  {
+    "day": "Monday",
+    "subject": "Research Methods in Economics",
+    "courseCode": "EC121",
+    "time": "11-1",
+    "room": "N5"
+  },
+  {
+    "day": "Monday",
+    "subject": "State Politics in India",
+    "courseCode": "PO605",
+    "time": "11-1",
+    "room": "CR-11"
+  },
+  {
+    "day": "Monday",
+    "subject": "Understanding the Past",
+    "courseCode": "HS401",
+    "time": "11-1",
+    "room": "NL2"
+  },
+  {
+    "day": "Monday",
+    "subject": "Modern India",
+    "courseCode": "HS410",
+    "time": "11-1",
+    "room": "301"
+  },
+  {
+    "day": "Monday",
+    "subject": "Medieval World",
+    "courseCode": "HS405",
+    "time": "11-1",
+    "room": "308"
+  },
+  {
+    "day": "Monday",
+    "subject": "Issues of Gender in Indian Literary Texts",
+    "courseCode": "EN232",
+    "time": "3-5",
+    "room": "305"
+  },
+  {
+    "day": "Monday",
+    "subject": "Advanced Linear Algebra (Tutorial)",
+    "courseCode": "MA545 T",
+    "time": "3-5",
+    "room": "71B"
+  },
+  {
+    "day": "Monday",
+    "subject": "International Trade",
+    "courseCode": "EC115",
+    "time": "3-5",
+    "room": "CR-1"
+  },
+  {
+    "day": "Monday",
+    "subject": "English Proficiency Course",
+    "courseCode": "SE001",
+    "time": "3-5",
+    "room": "WS2-B"
+  },
+  {
+    "day": "Monday",
+    "subject": "Introduction to Culture and Creative Expression",
+    "courseCode": "AEO36",
+    "time": "3-5",
+    "room": "CR-3"
+  },
+  {
+    "day": "Monday",
+    "subject": "Identity Through Popular Narratives A",
+    "courseCode": "AEO34 A",
+    "time": "3-5",
+    "room": "CR-4"
+  },
+  {
+    "day": "Monday",
+    "subject": "Human Rights in India A",
+    "courseCode": "AEO50 A",
+    "time": "3-5",
+    "room": "CR-5"
+  },
+  {
+    "day": "Monday",
+    "subject": "English for Academic Purposes D",
+    "courseCode": "AE001 D",
+    "time": "3-5",
+    "room": "CR-10"
+  },
+  {
+    "day": "Monday",
+    "subject": "English for Academic Purposes C",
+    "courseCode": "AE001 C",
+    "time": "3-5",
+    "room": "SSR1"
+  },
+  {
+    "day": "Monday",
+    "subject": "Advanced Research Methods in Psychology",
+    "courseCode": "PS716",
+    "time": "3-5",
+    "room": "SSR2"
+  },
+  {
+    "day": "Monday",
+    "subject": "Environment: Issues and Challenges B",
+    "courseCode": "EIC B",
+    "time": "3-5",
+    "room": "SSR3"
+  },
+  {
+    "day": "Monday",
+    "subject": "Environment: Issues and Challenges C",
+    "courseCode": "EIC C",
+    "time": "3-5",
+    "room": "N4"
+  },
+  {
+    "day": "Monday",
+    "subject": "Indian Constitution and Democracy A",
+    "courseCode": "AEO32 A",
+    "time": "3-5",
+    "room": "N5"
+  },
+  {
+    "day": "Monday",
+    "subject": "Human Rights in India A",
+    "courseCode": "AEOHR A",
+    "time": "3-5",
+    "room": "CR-11"
+  },
+  {
+    "day": "Monday",
+    "subject": "English for Academic Purposes A",
+    "courseCode": "AE001 A",
+    "time": "3-5",
+    "room": "NL2"
+  },
+  {
+    "day": "Monday",
+    "subject": "English for Academic Purposes B",
+    "courseCode": "AE001 B",
+    "time": "3-5",
+    "room": "301"
+  },
+  {
+    "day": "Monday",
+    "subject": "Environment: Issues and Challenges A",
+    "courseCode": "EIC A",
+    "time": "3-5",
+    "room": "308"
+  },
+  {
+    "day": "Monday",
+    "subject": "Mathematical Modelling (Lab)",
+    "courseCode": "MA541 L",
+    "time": "5-6",
+    "room": "Lab 58"
+  },
+  {
+    "day": "Tuesday",
+    "subject": "Sociological Theory I",
+    "courseCode": "SC810",
+    "time": "9-11",
+    "room": "305"
+  },
+  {
+    "day": "Tuesday",
+    "subject": "Introduction to Mathematical Thinking",
+    "courseCode": "MA501",
+    "time": "9-11",
+    "room": "CR-1"
+  },
+  {
+    "day": "Tuesday",
+    "subject": "Algebra II (Tutorial)",
+    "courseCode": "MA506 T",
+    "time": "9-11",
+    "room": "WS2-B"
+  },
+  {
+    "day": "Tuesday",
+    "subject": "Conceptualising Rural and Urban Societies",
+    "courseCode": "SC804",
+    "time": "9-11",
+    "room": "CR-3"
+  },
+  {
+    "day": "Tuesday",
+    "subject": "Economics of Regulation",
+    "courseCode": "EC138",
+    "time": "9-11",
+    "room": "CR-4"
+  },
+  {
+    "day": "Tuesday",
+    "subject": "Indian and World Literatures",
+    "courseCode": "EN231",
+    "time": "9-11",
+    "room": "CR-5"
+  },
+  {
+    "day": "Tuesday",
+    "subject": "Research Methods in Sociology",
+    "courseCode": "SC815",
+    "time": "9-11",
+    "room": "CR-10"
+  },
+  {
+    "day": "Tuesday",
+    "subject": "Theories of Marginality",
+    "courseCode": "EN215",
+    "time": "9-11",
+    "room": "SSR1"
+  },
+  {
+    "day": "Tuesday",
+    "subject": "Understanding Personality A",
+    "courseCode": "PS701 A",
+    "time": "9-11",
+    "room": "SSR2"
+  },
+  {
+    "day": "Tuesday",
+    "subject": "Political Theory B",
+    "courseCode": "PO601 B",
+    "time": "9-11",
+    "room": "SSR3"
+  },
+  {
+    "day": "Tuesday",
+    "subject": "Mathematical Modelling",
+    "courseCode": "MA541",
+    "time": "9-11",
+    "room": "N4"
+  },
+  {
+    "day": "Tuesday",
+    "subject": "Bhartiya Katha Sahitya evam anya Gadya Vidhayen",
+    "courseCode": "GE310",
+    "time": "9-11",
+    "room": "N5"
+  },
+  {
+    "day": "Tuesday",
+    "subject": "Development Economics",
+    "courseCode": "EC112",
+    "time": "9-11",
+    "room": "CR-11"
+  },
+  {
+    "day": "Tuesday",
+    "subject": "Political Theory A",
+    "courseCode": "PO601 A",
+    "time": "9-11",
+    "room": "NL2"
+  },
+  {
+    "day": "Tuesday",
+    "subject": "Introduction to Cryptography",
+    "courseCode": "MA546",
+    "time": "9-11",
+    "room": "301"
+  },
+  {
+    "day": "Tuesday",
+    "subject": "Medieval India 1",
+    "courseCode": "HS404",
+    "time": "9-11",
+    "room": "308"
+  },
+  {
+    "day": "Tuesday",
+    "subject": "Macroeconomics I",
+    "courseCode": "EC106",
+    "time": "9-11",
+    "room": "NL2"
+  },
+  {
+    "day": "Tuesday",
+    "subject": "Society and Economy of Medieval India",
+    "courseCode": "HS432",
+    "time": "9-11",
+    "room": "301"
+  },
+  {
+    "day": "Tuesday",
+    "subject": "Understanding Personality B",
+    "courseCode": "PS701 B",
+    "time": "9-11",
+    "room": "308"
+  },
+  {
+    "day": "Tuesday",
+    "subject": "Microeconomics I",
+    "courseCode": "EC105",
+    "time": "11-12",
+    "room": "305"
+  },
+  {
+    "day": "Tuesday",
+    "subject": "Introduction to Cryptography (Tutorial)",
+    "courseCode": "MA546 T",
+    "time": "11-12",
+    "room": "71F"
+  },
+  {
+    "day": "Tuesday",
+    "subject": "Introduction to Drama",
+    "courseCode": "EN206",
+    "time": "12-1",
+    "room": "305"
+  },
+  {
+    "day": "Tuesday",
+    "subject": "India's Foreign Policy A",
+    "courseCode": "PO610 A",
+    "time": "12-1",
+    "room": "CR-1"
+  },
+  {
+    "day": "Tuesday",
+    "subject": "Indian Society: Continuity, Change and Paradoxes",
+    "courseCode": "AEO35",
+    "time": "12-1",
+    "room": "WS2-B"
+  },
+  {
+    "day": "Tuesday",
+    "subject": "Methods in Psychology A",
+    "courseCode": "PS706 A",
+    "time": "12-1",
+    "room": "CR-3"
+  },
+  {
+    "day": "Tuesday",
+    "subject": "Psychosocial Perspectives in Education",
+    "courseCode": "PS734",
+    "time": "12-1",
+    "room": "CR-4"
+  },
+  {
+    "day": "Tuesday",
+    "subject": "IT Networking Fundamentals",
+    "courseCode": "SE002",
+    "time": "12-1",
+    "room": "CR-5"
+  },
+  {
+    "day": "Tuesday",
+    "subject": "India's Foreign Policy B",
+    "courseCode": "PO610 B",
+    "time": "12-1",
+    "room": "CR-10"
+  },
+  {
+    "day": "Tuesday",
+    "subject": "Reading Crime Fiction",
+    "courseCode": "EN237",
+    "time": "12-1",
+    "room": "SSR1"
+  },
+  {
+    "day": "Tuesday",
+    "subject": "Methods in Psychology B",
+    "courseCode": "PS706 B",
+    "time": "12-1",
+    "room": "SSR2"
+  },
+  {
+    "day": "Tuesday",
+    "subject": "Community Mental Health (DSE)",
+    "courseCode": "PS732",
+    "time": "12-1",
+    "room": "SSR3"
+  },
+  {
+    "day": "Tuesday",
+    "subject": "Advanced Analysis",
+    "courseCode": "MA540",
+    "time": "12-1",
+    "room": "N4"
+  },
+  {
+    "day": "Tuesday",
+    "subject": "Theories and Methods in the Study of History",
+    "courseCode": "HS437",
+    "time": "12-1",
+    "room": "N5"
+  },
+  {
+    "day": "Tuesday",
+    "subject": "Modern and Post Modern World",
+    "courseCode": "HS411",
+    "time": "12-1",
+    "room": "CR-11"
+  },
+  {
+    "day": "Tuesday",
+    "subject": "Computing for Economics",
+    "courseCode": "EC132",
+    "time": "12-1",
+    "room": "NL2"
+  },
+  {
+    "day": "Tuesday",
+    "subject": "Conceptualising Rural and Urban Societies",
+    "courseCode": "SC804",
+    "time": "3-5",
+    "room": "CR-3"
+  },
+  {
+    "day": "Tuesday",
+    "subject": "Numerical Analysis",
+    "courseCode": "MA504",
+    "time": "3-5",
+    "room": "71B"
+  },
+  {
+    "day": "Tuesday",
+    "subject": "School, Schooling and Education",
+    "courseCode": "GE913",
+    "time": "3-5",
+    "room": "CR-1"
+  },
+  {
+    "day": "Tuesday",
+    "subject": "Marriage, Kinship and Family Forms",
+    "courseCode": "SC805",
+    "time": "3-5",
+    "room": "WS2-B"
+  },
+  {
+    "day": "Tuesday",
+    "subject": "Ordinary Differential Equations",
+    "courseCode": "MA510",
+    "time": "3-5",
+    "room": "CR-3"
+  },
+  {
+    "day": "Tuesday",
+    "subject": "Introduction to Sociology A",
+    "courseCode": "SC801 A",
+    "time": "3-5",
+    "room": "CR-4"
+  },
+  {
+    "day": "Tuesday",
+    "subject": "Introduction to Sociology B",
+    "courseCode": "SC801 B",
+    "time": "3-5",
+    "room": "CR-5"
+  },
+  {
+    "day": "Tuesday",
+    "subject": "Computer Aur Hindi",
+    "courseCode": "GE311",
+    "time": "3-5",
+    "room": "CR-10"
+  },
+  {
+    "day": "Tuesday",
+    "subject": "Introduction to Cultural Studies",
+    "courseCode": "EN238",
+    "time": "3-5",
+    "room": "SSR1"
+  },
+  {
+    "day": "Tuesday",
+    "subject": "Social Psychology B",
+    "courseCode": "PS704 B",
+    "time": "3-5",
+    "room": "SSR2"
+  },
+  {
+    "day": "Tuesday",
+    "subject": "Advanced Analysis II",
+    "courseCode": "MA543",
+    "time": "3-5",
+    "room": "SSR3"
+  },
+  {
+    "day": "Tuesday",
+    "subject": "Social Psychology A",
+    "courseCode": "PS704 A",
+    "time": "3-5",
+    "room": "N4"
+  },
+  {
+    "day": "Tuesday",
+    "subject": "Delhi in History",
+    "courseCode": "HS406",
+    "time": "3-5",
+    "room": "N5"
+  },
+  {
+    "day": "Tuesday",
+    "subject": "Modernism",
+    "courseCode": "EN210",
+    "time": "3-5",
+    "room": "CR-11"
+  },
+  {
+    "day": "Tuesday",
+    "subject": "Sociology of Work",
+    "courseCode": "SC831",
+    "time": "3-5",
+    "room": "NL2"
+  },
+  {
+    "day": "Wednesday",
+    "subject": "Issues of Gender in Indian Literary Texts",
+    "courseCode": "EN232",
+    "time": "9-11",
+    "room": "305"
+  },
+  {
+    "day": "Wednesday",
+    "subject": "Advanced Analysis II (Tutorial)",
+    "courseCode": "MA543 T",
+    "time": "9-11",
+    "room": "71B"
+  },
+  {
+    "day": "Wednesday",
+    "subject": "International Trade",
+    "courseCode": "EC115",
+    "time": "9-11",
+    "room": "CR-1"
+  },
+  {
+    "day": "Wednesday",
+    "subject": "English Proficiency Course",
+    "courseCode": "SE001",
+    "time": "9-11",
+    "room": "WS2-B"
+  },
+  {
+    "day": "Wednesday",
+    "subject": "Introduction to Culture and Creative Expression",
+    "courseCode": "AEO36",
+    "time": "9-11",
+    "room": "CR-3"
+  },
+  {
+    "day": "Wednesday",
+    "subject": "Identity Through Popular Narratives A",
+    "courseCode": "AEO34 A",
+    "time": "9-11",
+    "room": "CR-4"
+  },
+  {
+    "day": "Wednesday",
+    "subject": "Human Rights in India A",
+    "courseCode": "AEO50 A",
+    "time": "9-11",
+    "room": "CR-5"
+  },
+  {
+    "day": "Wednesday",
+    "subject": "English for Academic Purposes D",
+    "courseCode": "AE001 D",
+    "time": "9-11",
+    "room": "CR-10"
+  },
+  {
+    "day": "Wednesday",
+    "subject": "English for Academic Purposes C",
+    "courseCode": "AE001 C",
+    "time": "9-11",
+    "room": "SSR1"
+  },
+  {
+    "day": "Wednesday",
+    "subject": "Advanced Research Methods in Psychology",
+    "courseCode": "PS716",
+    "time": "9-11",
+    "room": "SSR2"
+  },
+  {
+    "day": "Wednesday",
+    "subject": "Environment: Issues and Challenges B",
+    "courseCode": "EIC B",
+    "time": "9-11",
+    "room": "SSR3"
+  },
+  {
+    "day": "Wednesday",
+    "subject": "Environment: Issues and Challenges C",
+    "courseCode": "EIC C",
+    "time": "9-11",
+    "room": "N4"
+  },
+  {
+    "day": "Wednesday",
+    "subject": "Indian Constitution and Democracy A",
+    "courseCode": "AEO32 A",
+    "time": "9-11",
+    "room": "N5"
+  },
+  {
+    "day": "Wednesday",
+    "subject": "Human Rights in India A",
+    "courseCode": "AEOHR A",
+    "time": "9-11",
+    "room": "CR-11"
+  },
+  {
+    "day": "Wednesday",
+    "subject": "English for Academic Purposes A",
+    "courseCode": "AE001 A",
+    "time": "9-11",
+    "room": "NL2"
+  },
+  {
+    "day": "Wednesday",
+    "subject": "English for Academic Purposes B",
+    "courseCode": "AE001 B",
+    "time": "9-11",
+    "room": "301"
+  },
+  {
+    "day": "Wednesday",
+    "subject": "Environment: Issues and Challenges A",
+    "courseCode": "EIC A",
+    "time": "9-11",
+    "room": "308"
+  },
+  {
+    "day": "Wednesday",
+    "subject": "Ordinary Differential Equations (Lab)",
+    "courseCode": "MA510 L",
+    "time": "9-11",
+    "room": "Lab 58"
+  },
+  {
+    "day": "Wednesday",
+    "subject": "Statistical Methods for Economics",
+    "courseCode": "EC104",
+    "time": "11-1",
+    "room": "305"
+  },
+  {
+    "day": "Wednesday",
+    "subject": "Understanding Cinema",
+    "courseCode": "EN236",
+    "time": "11-1",
+    "room": "CR-1"
+  },
+  {
+    "day": "Wednesday",
+    "subject": "The Epic",
+    "courseCode": "EN204",
+    "time": "11-1",
+    "room": "WS2-B"
+  },
+  {
+    "day": "Wednesday",
+    "subject": "Algebra II",
+    "courseCode": "MA506",
+    "time": "11-1",
+    "room": "CR-3"
+  },
+  {
+    "day": "Wednesday",
+    "subject": "Social Movements",
+    "courseCode": "SC811",
+    "time": "11-1",
+    "room": "CR-4"
+  },
+  {
+    "day": "Wednesday",
+    "subject": "Research Methods for Political Science",
+    "courseCode": "PO615",
+    "time": "11-1",
+    "room": "CR-5"
+  },
+  {
+    "day": "Wednesday",
+    "subject": "History of Science Technology and Medicine",
+    "courseCode": "HS414",
+    "time": "11-1",
+    "room": "SSR1"
+  },
+  {
+    "day": "Wednesday",
+    "subject": "Public Economics: Theory and Policy",
+    "courseCode": "EC111",
+    "time": "11-1",
+    "room": "SSR2"
+  },
+  {
+    "day": "Wednesday",
+    "subject": "Advanced Differential Equations",
+    "courseCode": "MA544",
+    "time": "11-1",
+    "room": "SSR3"
+  },
+  {
+    "day": "Wednesday",
+    "subject": "Neuropsychology",
+    "courseCode": "PS711",
+    "time": "11-1",
+    "room": "N4"
+  },
+  {
+    "day": "Wednesday",
+    "subject": "Research Methods in Economics",
+    "courseCode": "EC121",
+    "time": "11-1",
+    "room": "N5"
+  },
+  {
+    "day": "Wednesday",
+    "subject": "State Politics in India",
+    "courseCode": "PO605",
+    "time": "11-1",
+    "room": "CR-11"
+  },
+  {
+    "day": "Wednesday",
+    "subject": "Understanding the Past",
+    "courseCode": "HS401",
+    "time": "11-1",
+    "room": "NL2"
+  },
+  {
+    "day": "Wednesday",
+    "subject": "Modern India",
+    "courseCode": "HS410",
+    "time": "11-1",
+    "room": "301"
+  },
+  {
+    "day": "Wednesday",
+    "subject": "Medieval World",
+    "courseCode": "HS405",
+    "time": "11-1",
+    "room": "308"
+  },
+  {
+    "day": "Wednesday",
+    "subject": "Language through Literature A",
+    "courseCode": "SE004 A",
+    "time": "3-5",
+    "room": "305"
+  },
+  {
+    "day": "Wednesday",
+    "subject": "Economy and Society",
+    "courseCode": "SC835",
+    "time": "3-5",
+    "room": "CR-1"
+  },
+  {
+    "day": "Wednesday",
+    "subject": "Sanjhi Sanskriti aur Hindustani Kavita",
+    "courseCode": "GE304",
+    "time": "3-5",
+    "room": "WS2-B"
+  },
+  {
+    "day": "Wednesday",
+    "subject": "Youth Society and Literature A",
+    "courseCode": "AEO33 A",
+    "time": "3-5",
+    "room": "CR-3"
+  },
+  {
+    "day": "Wednesday",
+    "subject": "Politics, Law and Society",
+    "courseCode": "SC806",
+    "time": "3-5",
+    "room": "CR-4"
+  },
+  {
+    "day": "Wednesday",
+    "subject": "Youth Society and Literature B",
+    "courseCode": "AEO33 B",
+    "time": "3-5",
+    "room": "CR-5"
+  },
+  {
+    "day": "Wednesday",
+    "subject": "Language through Literature B",
+    "courseCode": "SE004 B",
+    "time": "3-5",
+    "room": "CR-10"
+  },
+  {
+    "day": "Wednesday",
+    "subject": "Colonialism and Nationalism in India",
+    "courseCode": "PO631",
+    "time": "3-5",
+    "room": "SSR1"
+  },
+  {
+    "day": "Wednesday",
+    "subject": "Research Methodology",
+    "courseCode": "MA547",
+    "time": "3-5",
+    "room": "SSR2"
+  },
+  {
+    "day": "Wednesday",
+    "subject": "Globalization and Politics",
+    "courseCode": "GEPO1",
+    "time": "3-5",
+    "room": "SSR3"
+  },
+  {
+    "day": "Wednesday",
+    "subject": "Basics of Performance Making",
+    "courseCode": "GE918",
+    "time": "3-5",
+    "room": "N4"
+  },
+  {
+    "day": "Wednesday",
+    "subject": "Introduction to Society and Culture in East Asia",
+    "courseCode": "HS431",
+    "time": "3-5",
+    "room": "N5"
+  },
+  {
+    "day": "Wednesday",
+    "subject": "Peace and Conflict Studies",
+    "courseCode": "GE611",
+    "time": "3-5",
+    "room": "CR-11"
+  },
+  {
+    "day": "Wednesday",
+    "subject": "Business Communication I",
+    "courseCode": "SE005",
+    "time": "3-5",
+    "room": "NL2"
+  },
+  {
+    "day": "Thursday",
+    "subject": "Statistics A",
+    "courseCode": "PS705 A",
+    "time": "9-11",
+    "room": "305"
+  },
+  {
+    "day": "Thursday",
+    "subject": "Community Engagement Services A",
+    "courseCode": "CES A",
+    "time": "9-11",
+    "room": "CR-1"
+  },
+  {
+    "day": "Thursday",
+    "subject": "Community Mental Health (7th sem)",
+    "courseCode": "PS715",
+    "time": "9-11",
+    "room": "WS2-B"
+  },
+  {
+    "day": "Thursday",
+    "subject": "Community Engagement Services C",
+    "courseCode": "CES C",
+    "time": "9-11",
+    "room": "CR-3"
+  },
+  {
+    "day": "Thursday",
+    "subject": "Comparative Government and Politics",
+    "courseCode": "PO606",
+    "time": "9-11",
+    "room": "CR-4"
+  },
+  {
+    "day": "Thursday",
+    "subject": "Culture, Identity and Society",
+    "courseCode": "SC814",
+    "time": "9-11",
+    "room": "CR-5"
+  },
+  {
+    "day": "Thursday",
+    "subject": "Community Engagement Services B",
+    "courseCode": "CES B",
+    "time": "9-11",
+    "room": "CR-10"
+  },
+  {
+    "day": "Thursday",
+    "subject": "Hindi Aadhar Pathyakram",
+    "courseCode": "AEO38",
+    "time": "9-11",
+    "room": "SSR1"
+  },
+  {
+    "day": "Thursday",
+    "subject": "Party Politics in India A",
+    "courseCode": "PO632 A",
+    "time": "9-11",
+    "room": "SSR2"
+  },
+  {
+    "day": "Thursday",
+    "subject": "Party Politics in India B",
+    "courseCode": "PO632 B",
+    "time": "9-11",
+    "room": "SSR3"
+  },
+  {
+    "day": "Thursday",
+    "subject": "Feminism: Theory and Practice A",
+    "courseCode": "GE001 A",
+    "time": "9-11",
+    "room": "N4"
+  },
+  {
+    "day": "Thursday",
+    "subject": "Feminism: Theory and Practice B",
+    "courseCode": "GE001 B",
+    "time": "9-11",
+    "room": "N5"
+  },
+  {
+    "day": "Thursday",
+    "subject": "Reading Gendered Power in Dystopia",
+    "courseCode": "GE003",
+    "time": "9-11",
+    "room": "CR-11"
+  },
+  {
+    "day": "Thursday",
+    "subject": "Citizenship in the Contemporary World",
+    "courseCode": "PO634",
+    "time": "9-11",
+    "room": "NL2"
+  },
+  {
+    "day": "Thursday",
+    "subject": "Indian History through Literature",
+    "courseCode": "GE908",
+    "time": "9-11",
+    "room": "301"
+  },
+  {
+    "day": "Thursday",
+    "subject": "Psychology in Action",
+    "courseCode": "PS731",
+    "time": "9-11",
+    "room": "308"
+  },
+  {
+    "day": "Thursday",
+    "subject": "Statistics B",
+    "courseCode": "PS705 B",
+    "time": "9-11",
+    "room": "NL2"
+  },
+  {
+    "day": "Thursday",
+    "subject": "Sociological Theory I",
+    "courseCode": "SC810",
+    "time": "11-1",
+    "room": "305"
+  },
+  {
+    "day": "Thursday",
+    "subject": "Introduction to Mathematical Thinking",
+    "courseCode": "MA501",
+    "time": "11-1",
+    "room": "CR-1"
+  },
+  {
+    "day": "Thursday",
+    "subject": "Conceptualising Rural and Urban Societies",
+    "courseCode": "SC804",
+    "time": "11-1",
+    "room": "CR-3"
+  },
+  {
+    "day": "Thursday",
+    "subject": "Economics of Regulation",
+    "courseCode": "EC138",
+    "time": "11-1",
+    "room": "CR-4"
+  },
+  {
+    "day": "Thursday",
+    "subject": "Indian and World Literatures",
+    "courseCode": "EN231",
+    "time": "11-1",
+    "room": "CR-5"
+  },
+  {
+    "day": "Thursday",
+    "subject": "Research Methods in Sociology",
+    "courseCode": "SC815",
+    "time": "11-1",
+    "room": "CR-10"
+  },
+  {
+    "day": "Thursday",
+    "subject": "Theories of Marginality",
+    "courseCode": "EN215",
+    "time": "11-1",
+    "room": "SSR1"
+  },
+  {
+    "day": "Thursday",
+    "subject": "Understanding Personality A",
+    "courseCode": "PS701 A",
+    "time": "11-1",
+    "room": "SSR2"
+  },
+  {
+    "day": "Thursday",
+    "subject": "Political Theory B",
+    "courseCode": "PO601 B",
+    "time": "11-1",
+    "room": "SSR3"
+  },
+  {
+    "day": "Thursday",
+    "subject": "Mathematical Modelling",
+    "courseCode": "MA541",
+    "time": "11-1",
+    "room": "N4"
+  },
+  {
+    "day": "Thursday",
+    "subject": "Bhartiya Katha Sahitya evam anya Gadya Vidhayen",
+    "courseCode": "GE310",
+    "time": "11-1",
+    "room": "N5"
+  },
+  {
+    "day": "Thursday",
+    "subject": "Development Economics",
+    "courseCode": "EC112",
+    "time": "11-1",
+    "room": "CR-11"
+  },
+  {
+    "day": "Thursday",
+    "subject": "Political Theory A",
+    "courseCode": "PO601 A",
+    "time": "11-1",
+    "room": "NL2"
+  },
+  {
+    "day": "Thursday",
+    "subject": "Introduction to Cryptography",
+    "courseCode": "MA546",
+    "time": "11-1",
+    "room": "301"
+  },
+  {
+    "day": "Thursday",
+    "subject": "Medieval India 1",
+    "courseCode": "HS404",
+    "time": "11-1",
+    "room": "308"
+  },
+  {
+    "day": "Thursday",
+    "subject": "Analysis II (Tutorial)",
+    "courseCode": "MA505 T",
+    "time": "1-2",
+    "room": "71F"
+  },
+  {
+    "day": "Thursday",
+    "subject": "Logic and Reasoning",
+    "courseCode": "AEO44",
+    "time": "3-5",
+    "room": "305"
+  },
+  {
+    "day": "Thursday",
+    "subject": "Clinical Case Study - Practicum",
+    "courseCode": "PS710",
+    "time": "3-5",
+    "room": "71B"
+  },
+  {
+    "day": "Thursday",
+    "subject": "Gendered Lives in Performance",
+    "courseCode": "GE004",
+    "time": "3-5",
+    "room": "CR-1"
+  },
+  {
+    "day": "Thursday",
+    "subject": "Indian Constitution and Democracy B",
+    "courseCode": "AEO32 B",
+    "time": "3-5",
+    "room": "WS2-B"
+  },
+  {
+    "day": "Thursday",
+    "subject": "Reading and Academic Writing in Historical Study",
+    "courseCode": "HS436",
+    "time": "3-5",
+    "room": "CR-3"
+  },
+  {
+    "day": "Thursday",
+    "subject": "Methods in Psychology A",
+    "courseCode": "PS706 A",
+    "time": "3-5",
+    "room": "CR-4"
+  },
+  {
+    "day": "Thursday",
+    "subject": "Psychosocial Perspectives in Education",
+    "courseCode": "PS734",
+    "time": "3-5",
+    "room": "CR-5"
+  },
+  {
+    "day": "Thursday",
+    "subject": "Human Rights in India B",
+    "courseCode": "AEO50 B",
+    "time": "3-5",
+    "room": "CR-10"
+  },
+  {
+    "day": "Thursday",
+    "subject": "Community Mental Health (DSE)",
+    "courseCode": "PS732",
+    "time": "3-5",
+    "room": "SSR1"
+  },
+  {
+    "day": "Thursday",
+    "subject": "Public Policy",
+    "courseCode": "PO611",
+    "time": "3-5",
+    "room": "SSR2"
+  },
+  {
+    "day": "Thursday",
+    "subject": "Hindi (Madhyamik)",
+    "courseCode": "AE007",
+    "time": "3-5",
+    "room": "SSR3"
+  },
+  {
+    "day": "Thursday",
+    "subject": "Vyavaharik Hindi Bhasha C",
+    "courseCode": "AE006 C",
+    "time": "3-5",
+    "room": "N4"
+  },
+  {
+    "day": "Thursday",
+    "subject": "Vyavaharik Hindi Bhasha D",
+    "courseCode": "AE006 D",
+    "time": "3-5",
+    "room": "N5"
+  },
+  {
+    "day": "Thursday",
+    "subject": "Democracy, Governance and Development",
+    "courseCode": "GE610",
+    "time": "3-5",
+    "room": "CR-11"
+  },
+  {
+    "day": "Thursday",
+    "subject": "Vyavaharik Hindi Bhasha A",
+    "courseCode": "AE006 A",
+    "time": "3-5",
+    "room": "NL2"
+  },
+  {
+    "day": "Thursday",
+    "subject": "Vyavaharik Hindi Bhasha B",
+    "courseCode": "AE006 B",
+    "time": "3-5",
+    "room": "301"
+  },
+  {
+    "day": "Thursday",
+    "subject": "Advanced Analysis (Tutorial)",
+    "courseCode": "MA540 T",
+    "time": "3-5",
+    "room": "308"
+  },
+  {
+    "day": "Friday",
+    "subject": "School, Schooling and Education",
+    "courseCode": "GE913",
+    "time": "9-11",
+    "room": "305"
+  },
+  {
+    "day": "Friday",
+    "subject": "Numerical Analysis",
+    "courseCode": "MA504",
+    "time": "9-11",
+    "room": "71B"
+  },
+  {
+    "day": "Friday",
+    "subject": "Marriage, Kinship and Family Forms",
+    "courseCode": "SC805",
+    "time": "9-11",
+    "room": "CR-1"
+  },
+  {
+    "day": "Friday",
+    "subject": "Ordinary Differential Equations",
+    "courseCode": "MA510",
+    "time": "9-11",
+    "room": "WS2-B"
+  },
+  {
+    "day": "Friday",
+    "subject": "Introduction to Sociology A",
+    "courseCode": "SC801 A",
+    "time": "9-11",
+    "room": "CR-3"
+  },
+  {
+    "day": "Friday",
+    "subject": "Introduction to Sociology B",
+    "courseCode": "SC801 B",
+    "time": "9-11",
+    "room": "CR-4"
+  },
+  {
+    "day": "Friday",
+    "subject": "Computer Aur Hindi",
+    "courseCode": "GE311",
+    "time": "9-11",
+    "room": "CR-5"
+  },
+  {
+    "day": "Friday",
+    "subject": "Introduction to Cultural Studies",
+    "courseCode": "EN238",
+    "time": "9-11",
+    "room": "CR-10"
+  },
+  {
+    "day": "Friday",
+    "subject": "Social Psychology B",
+    "courseCode": "PS704 B",
+    "time": "9-11",
+    "room": "SSR1"
+  },
+  {
+    "day": "Friday",
+    "subject": "Advanced Analysis II",
+    "courseCode": "MA543",
+    "time": "9-11",
+    "room": "SSR2"
+  },
+  {
+    "day": "Friday",
+    "subject": "Social Psychology A",
+    "courseCode": "PS704 A",
+    "time": "9-11",
+    "room": "SSR3"
+  },
+  {
+    "day": "Friday",
+    "subject": "Delhi in History",
+    "courseCode": "HS406",
+    "time": "9-11",
+    "room": "N4"
+  },
+  {
+    "day": "Friday",
+    "subject": "Modernism",
+    "courseCode": "EN210",
+    "time": "9-11",
+    "room": "N5"
+  },
+  {
+    "day": "Friday",
+    "subject": "Sociology of Work",
+    "courseCode": "SC831",
+    "time": "9-11",
+    "room": "NL2"
+  },
+  {
+    "day": "Friday",
+    "subject": "Understanding Personality B",
+    "courseCode": "PS701 B",
+    "time": "9-11",
+    "room": "308"
+  },
+  {
+    "day": "Friday",
+    "subject": "Introduction to Research Methods",
+    "courseCode": "EN216",
+    "time": "11-1",
+    "room": "305"
+  },
+  {
+    "day": "Friday",
+    "subject": "Literatures of the Indian Subcontinent A",
+    "courseCode": "EN201 A",
+    "time": "11-1",
+    "room": "CR-1"
+  },
+  {
+    "day": "Friday",
+    "subject": "Principles of Microeconomics B",
+    "courseCode": "EC101 B",
+    "time": "11-1",
+    "room": "WS2-B"
+  },
+  {
+    "day": "Friday",
+    "subject": "Food and Society",
+    "courseCode": "SC832",
+    "time": "11-1",
+    "room": "CR-3"
+  },
+  {
+    "day": "Friday",
+    "subject": "American Literature",
+    "courseCode": "EN205",
+    "time": "11-1",
+    "room": "CR-4"
+  },
+  {
+    "day": "Friday",
+    "subject": "Literary Theory",
+    "courseCode": "EN211",
+    "time": "11-1",
+    "room": "CR-5"
+  },
+  {
+    "day": "Friday",
+    "subject": "Literatures of the Indian Subcontinent B",
+    "courseCode": "EN201 B",
+    "time": "11-1",
+    "room": "CR-10"
+  },
+  {
+    "day": "Friday",
+    "subject": "Hindi Sahitya Itihas ki Rooprekha",
+    "courseCode": "AE047",
+    "time": "11-1",
+    "room": "SSR1"
+  },
+  {
+    "day": "Friday",
+    "subject": "Advanced Linear Algebra",
+    "courseCode": "MA545",
+    "time": "11-1",
+    "room": "SSR2"
+  },
+  {
+    "day": "Friday",
+    "subject": "Western Political Thought B",
+    "courseCode": "PO604 B",
+    "time": "11-1",
+    "room": "SSR3"
+  },
+  {
+    "day": "Friday",
+    "subject": "Analysis II",
+    "courseCode": "MA505",
+    "time": "11-1",
+    "room": "N4"
+  },
+  {
+    "day": "Friday",
+    "subject": "Western Political Thought A",
+    "courseCode": "PO604 A",
+    "time": "11-1",
+    "room": "N5"
+  },
+  {
+    "day": "Friday",
+    "subject": "Principles of Microeconomics A",
+    "courseCode": "EC101 A",
+    "time": "11-1",
+    "room": "CR-11"
+  },
+  {
+    "day": "Friday",
+    "subject": "Introduction to Global IR: Non-Western Perspective",
+    "courseCode": "PO614",
+    "time": "11-1",
+    "room": "NL2"
+  },
+  {
+    "day": "Friday",
+    "subject": "Numerical Analysis (Lab)",
+    "courseCode": "MA504 L",
+    "time": "11-1",
+    "room": "Lab 58"
+  },
+  {
+    "day": "Friday",
+    "subject": "Microeconomics I",
+    "courseCode": "EC105",
+    "time": "3-5",
+    "room": "305"
+  },
+  {
+    "day": "Friday",
+    "subject": "Introduction to Drama",
+    "courseCode": "EN206",
+    "time": "3-5",
+    "room": "CR-1"
+  },
+  {
+    "day": "Friday",
+    "subject": "India's Foreign Policy A",
+    "courseCode": "PO610 A",
+    "time": "3-5",
+    "room": "WS2-B"
+  },
+  {
+    "day": "Friday",
+    "subject": "Indian Society: Continuity, Change and Paradoxes",
+    "courseCode": "AEO35",
+    "time": "3-5",
+    "room": "CR-3"
+  },
+  {
+    "day": "Friday",
+    "subject": "Identity Through Popular Narratives B",
+    "courseCode": "AEO34 B",
+    "time": "3-5",
+    "room": "CR-4"
+  },
+  {
+    "day": "Friday",
+    "subject": "IT Networking Fundamentals",
+    "courseCode": "SE002",
+    "time": "3-5",
+    "room": "CR-5"
+  },
+  {
+    "day": "Friday",
+    "subject": "India's Foreign Policy B",
+    "courseCode": "PO610 B",
+    "time": "3-5",
+    "room": "CR-10"
+  },
+  {
+    "day": "Friday",
+    "subject": "Reading Crime Fiction",
+    "courseCode": "EN237",
+    "time": "3-5",
+    "room": "SSR1"
+  },
+  {
+    "day": "Friday",
+    "subject": "Methods in Psychology B",
+    "courseCode": "PS706 B",
+    "time": "3-5",
+    "room": "SSR2"
+  },
+  {
+    "day": "Friday",
+    "subject": "Advanced Analysis",
+    "courseCode": "MA540",
+    "time": "3-5",
+    "room": "SSR3"
+  },
+  {
+    "day": "Friday",
+    "subject": "Theories and Methods in the Study of History",
+    "courseCode": "HS437",
+    "time": "3-5",
+    "room": "N4"
+  },
+  {
+    "day": "Friday",
+    "subject": "Modern and Post Modern World",
+    "courseCode": "HS411",
+    "time": "3-5",
+    "room": "N5"
+  },
+  {
+    "day": "Friday",
+    "subject": "Computing for Economics",
+    "courseCode": "EC132",
+    "time": "3-5",
+    "room": "NL2"
+  },
+  {
+    "day": "Saturday",
+    "subject": "Language through Literature A",
+    "courseCode": "SE004 A",
+    "time": "9-11",
+    "room": "305"
+  },
+  {
+    "day": "Saturday",
+    "subject": "Economy and Society",
+    "courseCode": "SC835",
+    "time": "9-11",
+    "room": "CR-1"
+  },
+  {
+    "day": "Saturday",
+    "subject": "Sanjhi Sanskriti aur Hindustani Kavita",
+    "courseCode": "GE304",
+    "time": "9-11",
+    "room": "WS2-B"
+  },
+  {
+    "day": "Saturday",
+    "subject": "Youth Society and Literature A",
+    "courseCode": "AEO33 A",
+    "time": "9-11",
+    "room": "CR-3"
+  },
+  {
+    "day": "Saturday",
+    "subject": "Politics, Law and Society",
+    "courseCode": "SC806",
+    "time": "9-11",
+    "room": "CR-4"
+  },
+  {
+    "day": "Saturday",
+    "subject": "Youth Society and Literature B",
+    "courseCode": "AEO33 B",
+    "time": "9-11",
+    "room": "CR-5"
+  },
+  {
+    "day": "Saturday",
+    "subject": "Language through Literature B",
+    "courseCode": "SE004 B",
+    "time": "9-11",
+    "room": "CR-10"
+  },
+  {
+    "day": "Saturday",
+    "subject": "Colonialism and Nationalism in India",
+    "courseCode": "PO631",
+    "time": "9-11",
+    "room": "SSR1"
+  },
+  {
+    "day": "Saturday",
+    "subject": "Research Methodology",
+    "courseCode": "MA547",
+    "time": "9-11",
+    "room": "SSR2"
+  },
+  {
+    "day": "Saturday",
+    "subject": "Globalization and Politics",
+    "courseCode": "GEPO1",
+    "time": "9-11",
+    "room": "SSR3"
+  },
+  {
+    "day": "Saturday",
+    "subject": "Basics of Performance Making",
+    "courseCode": "GE918",
+    "time": "9-11",
+    "room": "N4"
+  },
+  {
+    "day": "Saturday",
+    "subject": "Introduction to Society and Culture in East Asia",
+    "courseCode": "HS431",
+    "time": "9-11",
+    "room": "N5"
+  },
+  {
+    "day": "Saturday",
+    "subject": "Peace and Conflict Studies",
+    "courseCode": "GE611",
+    "time": "9-11",
+    "room": "CR-11"
+  },
+  {
+    "day": "Saturday",
+    "subject": "Business Communication I",
+    "courseCode": "SE005",
+    "time": "9-11",
+    "room": "NL2"
+  },
+  {
+    "day": "Saturday",
+    "subject": "Statistics A",
+    "courseCode": "PS705 A",
+    "time": "11-1",
+    "room": "305"
+  },
+  {
+    "day": "Saturday",
+    "subject": "Community Engagement Services A",
+    "courseCode": "CES A",
+    "time": "11-1",
+    "room": "CR-1"
+  },
+  {
+    "day": "Saturday",
+    "subject": "Community Mental Health (7th sem)",
+    "courseCode": "PS715",
+    "time": "11-1",
+    "room": "WS2-B"
+  },
+  {
+    "day": "Saturday",
+    "subject": "Community Engagement Services C",
+    "courseCode": "CES C",
+    "time": "11-1",
+    "room": "CR-3"
+  },
+  {
+    "day": "Saturday",
+    "subject": "Comparative Government and Politics",
+    "courseCode": "PS606",
+    "time": "11-1",
+    "room": "CR-4"
+  },
+  {
+    "day": "Saturday",
+    "subject": "Culture, Identity and Society",
+    "courseCode": "SC814",
+    "time": "11-1",
+    "room": "CR-5"
+  },
+  {
+    "day": "Saturday",
+    "subject": "Community Engagement Services B",
+    "courseCode": "CES B",
+    "time": "11-1",
+    "room": "CR-10"
+  },
+  {
+    "day": "Saturday",
+    "subject": "Hindi Aadhar Pathyakram",
+    "courseCode": "AEO38",
+    "time": "11-1",
+    "room": "SSR1"
+  },
+  {
+    "day": "Saturday",
+    "subject": "Party Politics in India A",
+    "courseCode": "PO632 A",
+    "time": "11-1",
+    "room": "SSR2"
+  },
+  {
+    "day": "Saturday",
+    "subject": "Party Politics in India B",
+    "courseCode": "PO632 B",
+    "time": "11-1",
+    "room": "SSR3"
+  },
+  {
+    "day": "Saturday",
+    "subject": "Feminism: Theory and Practice A",
+    "courseCode": "GE001 A",
+    "time": "11-1",
+    "room": "N4"
+  },
+  {
+    "day": "Saturday",
+    "subject": "Feminism: Theory and Practice B",
+    "courseCode": "GE001 B",
+    "time": "11-1",
+    "room": "N5"
+  },
+  {
+    "day": "Saturday",
+    "subject": "Reading Gendered Power in Dystopia",
+    "courseCode": "GE003",
+    "time": "11-1",
+    "room": "CR-11"
+  },
+  {
+    "day": "Saturday",
+    "subject": "Citizenship in the Contemporary World",
+    "courseCode": "PO634",
+    "time": "11-1",
+    "room": "NL2"
+  },
+  {
+    "day": "Saturday",
+    "subject": "Indian History through Literature",
+    "courseCode": "GE908",
+    "time": "11-1",
+    "room": "301"
+  },
+  {
+    "day": "Saturday",
+    "subject": "Psychology in Action",
+    "courseCode": "PS731",
+    "time": "11-1",
+    "room": "308"
+  },
+  {
+    "day": "Saturday",
+    "subject": "Statistics B",
+    "courseCode": "PS705 B",
+    "time": "11-1",
+    "room": "NL2"
+  },
+  {
+    "day": "Saturday",
+    "subject": "Logic and Reasoning",
+    "courseCode": "AEO44",
+    "time": "3-5",
+    "room": "305"
+  },
+  {
+    "day": "Saturday",
+    "subject": "Clinical Case Study - Practicum",
+    "courseCode": "PS710",
+    "time": "3-5",
+    "room": "71B"
+  },
+  {
+    "day": "Saturday",
+    "subject": "Gendered Lives in Performance",
+    "courseCode": "GE004",
+    "time": "3-5",
+    "room": "CR-1"
+  },
+  {
+    "day": "Saturday",
+    "subject": "Indian Constitution and Democracy B",
+    "courseCode": "AEO32 B",
+    "time": "3-5",
+    "room": "WS2-B"
+  },
+  {
+    "day": "Saturday",
+    "subject": "Reading and Academic Writing in Historical Study",
+    "courseCode": "HS436",
+    "time": "3-5",
+    "room": "CR-3"
+  },
+  {
+    "day": "Saturday",
+    "subject": "Identity Through Popular Narratives B",
+    "courseCode": "AEO34 B",
+    "time": "3-5",
+    "room": "CR-4"
+  },
+  {
+    "day": "Saturday",
+    "subject": "Human Rights in India B",
+    "courseCode": "AEO50 B",
+    "time": "3-5",
+    "room": "CR-5"
+  },
+  {
+    "day": "Saturday",
+    "subject": "Public Policy",
+    "courseCode": "PO611",
+    "time": "3-5",
+    "room": "SSR2"
+  },
+  {
+    "day": "Saturday",
+    "subject": "Hindi (Madhyamik)",
+    "courseCode": "AE007",
+    "time": "3-5",
+    "room": "SSR3"
+  },
+  {
+    "day": "Saturday",
+    "subject": "Vyavaharik Hindi Bhasha C",
+    "courseCode": "AE006 C",
+    "time": "3-5",
+    "room": "N4"
+  },
+  {
+    "day": "Saturday",
+    "subject": "Vyavaharik Hindi Bhasha D",
+    "courseCode": "AE006 D",
+    "time": "3-5",
+    "room": "N5"
+  },
+  {
+    "day": "Saturday",
+    "subject": "Democracy, Governance and Development",
+    "courseCode": "GE610",
+    "time": "3-5",
+    "room": "CR-11"
+  },
+  {
+    "day": "Saturday",
+    "subject": "Vyavaharik Hindi Bhasha A",
+    "courseCode": "AE006 A",
+    "time": "3-5",
+    "room": "NL2"
+  },
+  {
+    "day": "Saturday",
+    "subject": "Vyavaharik Hindi Bhasha B",
+    "courseCode": "AE006 B",
+    "time": "3-5",
+    "room": "301"
+  }
+]

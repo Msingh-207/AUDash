@@ -1,0 +1,562 @@
+[
+  {
+    "subjectCode": "NSUS1AE001",
+    "subjectName": "English for Academic Purposes",
+    "semester": 1
+  },
+  {
+    "subjectCode": "NSUS1AE006",
+    "subjectName": "Hindi Vyavaharik",
+    "semester": 1
+  },
+  {
+    "subjectCode": "NSUS1AE007",
+    "subjectName": "Hindi Madhyamik",
+    "semester": 1
+  },
+  {
+    "subjectCode": "NSUS1SE001",
+    "subjectName": "English Proficiency Course",
+    "semester": 1
+  },
+  {
+    "subjectCode": "NSUS1SE002",
+    "subjectName": "IT Networking Fundamentals",
+    "semester": 1
+  },
+  {
+    "subjectCode": "NSUS1SE004",
+    "subjectName": "Language through Literature",
+    "semester": 1
+  },
+  {
+    "subjectCode": "NSUS1CES001",
+    "subjectName": "Community Engagement Services",
+    "semester": 1
+  },
+  {
+    "subjectCode": "NSUS1AEO34",
+    "subjectName": "Identity Through Popular Narratives",
+    "semester": 1
+  },
+  {
+    "subjectCode": "NSUS1AEO32",
+    "subjectName": "Indian Constitution and Democracy",
+    "semester": 1
+  },
+  {
+    "subjectCode": "NSUS1AEO35",
+    "subjectName": "Indian Society: Continuity, Change and Paradoxes",
+    "semester": 1
+  },
+  {
+    "subjectCode": "NSUS1AEO36",
+    "subjectName": "Introduction to Culture and Creative Expression",
+    "semester": 1
+  },
+  {
+    "subjectCode": "NSUS1AEO33",
+    "subjectName": "Youth Society and Literature",
+    "semester": 1
+  },
+  {
+    "subjectCode": "NSUS1AEO38",
+    "subjectName": "Hindi Aadhar Pathyakram",
+    "semester": 1
+  },
+  {
+    "subjectCode": "NSUS1AEO50",
+    "subjectName": "Human Rights in India",
+    "semester": 1
+  },
+  {
+    "subjectCode": "NSUSPS701",
+    "subjectName": "Understanding Personality",
+    "semester": 1
+  },
+  {
+    "subjectCode": "NSUS1MA501",
+    "subjectName": "Introduction to Mathematical Thinking",
+    "semester": 1
+  },
+  {
+    "subjectCode": "NSUS1SC801",
+    "subjectName": "Introduction to Sociology",
+    "semester": 1
+  },
+  {
+    "subjectCode": "NSUS1HS401",
+    "subjectName": "Understanding the Past: Myths, Epics, Chronicles and Histories",
+    "semester": 1
+  },
+  {
+    "subjectCode": "NSUS1EN201",
+    "subjectName": "Literatures of the Indian Subcontinent",
+    "semester": 1
+  },
+  {
+    "subjectCode": "NSUS1PO601",
+    "subjectName": "Political Theory",
+    "semester": 1
+  },
+  {
+    "subjectCode": "NSUS1EC101",
+    "subjectName": "Principles of Microeconomics",
+    "semester": 1
+  },
+  {
+    "subjectCode": "NSUS1AEO44",
+    "subjectName": "Logic and Reasoning",
+    "semester": 3
+  },
+  {
+    "subjectCode": "NSUS1AE009",
+    "subjectName": "Environment: Issues and Challenges",
+    "semester": 3
+  },
+  {
+    "subjectCode": "NSUS1SE005",
+    "subjectName": "Business Communication I",
+    "semester": 3
+  },
+  {
+    "subjectCode": "NSUS1AE047",
+    "subjectName": "Hindi Sahitya Itihas ki Rooprekha",
+    "semester": 3
+  },
+  {
+    "subjectCode": "NSUS1GE004",
+    "subjectName": "Gendered Lives in Performance",
+    "semester": 3
+  },
+  {
+    "subjectCode": "NSUS1PS704",
+    "subjectName": "Social Psychology",
+    "semester": 3
+  },
+  {
+    "subjectCode": "NSUS1PS705",
+    "subjectName": "Statistics",
+    "semester": 3
+  },
+  {
+    "subjectCode": "NSUS1PS706",
+    "subjectName": "Methods in Psychology",
+    "semester": 3
+  },
+  {
+    "subjectCode": "NSUS1MA504",
+    "subjectName": "Numerical Analysis",
+    "semester": 3
+  },
+  {
+    "subjectCode": "NSUS1MA505",
+    "subjectName": "Analysis II",
+    "semester": 3
+  },
+  {
+    "subjectCode": "NSUS1MA506",
+    "subjectName": "Algebra II",
+    "semester": 3
+  },
+  {
+    "subjectCode": "NSUS1SC804",
+    "subjectName": "Conceptualising Rural and Urban Societies",
+    "semester": 3
+  },
+  {
+    "subjectCode": "NSUS1SC805",
+    "subjectName": "Marriage, Kinship and Family Forms",
+    "semester": 3
+  },
+  {
+    "subjectCode": "NSUS1SC806",
+    "subjectName": "Politics, Law and Society",
+    "semester": 3
+  },
+  {
+    "subjectCode": "NSUS1HS404",
+    "subjectName": "Medieval India 1",
+    "semester": 3
+  },
+  {
+    "subjectCode": "NSUS1HS405",
+    "subjectName": "Medieval World",
+    "semester": 3
+  },
+  {
+    "subjectCode": "NSUS1HS406",
+    "subjectName": "Delhi in History",
+    "semester": 3
+  },
+  {
+    "subjectCode": "NSUS1EN204",
+    "subjectName": "The Epic",
+    "semester": 3
+  },
+  {
+    "subjectCode": "NSUS1EN205",
+    "subjectName": "American Literature",
+    "semester": 3
+  },
+  {
+    "subjectCode": "NSUS1EN206",
+    "subjectName": "Introduction to Drama",
+    "semester": 3
+  },
+  {
+    "subjectCode": "NSUS1PO604",
+    "subjectName": "Western Political Thought",
+    "semester": 3
+  },
+  {
+    "subjectCode": "NSUS1PO605",
+    "subjectName": "State Politics in India",
+    "semester": 3
+  },
+  {
+    "subjectCode": "NSUS1PO606",
+    "subjectName": "Comparative Government and Politics",
+    "semester": 3
+  },
+  {
+    "subjectCode": "NSUS1GEPO1",
+    "subjectName": "Globalization and Politics",
+    "semester": 3
+  },
+  {
+    "subjectCode": "NSUS1EC104",
+    "subjectName": "Statistical Methods for Economics",
+    "semester": 3
+  },
+  {
+    "subjectCode": "NSUS1EC105",
+    "subjectName": "Microeconomics I",
+    "semester": 3
+  },
+  {
+    "subjectCode": "NSUS1EC106",
+    "subjectName": "Macroeconomics I",
+    "semester": 3
+  },
+  {
+    "subjectCode": "NSUS1GE908",
+    "subjectName": "Indian History through Literature",
+    "semester": 5
+  },
+  {
+    "subjectCode": "NSUS1GE003",
+    "subjectName": "Reading Gendered Power in Dystopia",
+    "semester": 5
+  },
+  {
+    "subjectCode": "NSUS1GE918",
+    "subjectName": "Basics of Performance Making",
+    "semester": 5
+  },
+  {
+    "subjectCode": "NSUS1GE304",
+    "subjectName": "Sanjhi Sanskriti aur Hindustani Kavita",
+    "semester": 5
+  },
+  {
+    "subjectCode": "NSUSPS710",
+    "subjectName": "Clinical Case Study - Practicum",
+    "semester": 5
+  },
+  {
+    "subjectCode": "NSUSPS711",
+    "subjectName": "Neuropsychology",
+    "semester": 5
+  },
+  {
+    "subjectCode": "NSUSPS731",
+    "subjectName": "Psychology in Action",
+    "semester": 5
+  },
+  {
+    "subjectCode": "NSUSPS732",
+    "subjectName": "Community Mental Health",
+    "semester": 5
+  },
+  {
+    "subjectCode": "NSUS1MA510",
+    "subjectName": "Ordinary Differential Equations",
+    "semester": 5
+  },
+  {
+    "subjectCode": "NSUS1MA540",
+    "subjectName": "Advanced Analysis",
+    "semester": 5
+  },
+  {
+    "subjectCode": "NSUS1MA541",
+    "subjectName": "Mathematical Modelling",
+    "semester": 5
+  },
+  {
+    "subjectCode": "NSUS1SC810",
+    "subjectName": "Sociological Theory I",
+    "semester": 5
+  },
+  {
+    "subjectCode": "NSUS1SC811",
+    "subjectName": "Social Movements",
+    "semester": 5
+  },
+  {
+    "subjectCode": "NSUS1SC832",
+    "subjectName": "Food and Society",
+    "semester": 5
+  },
+  {
+    "subjectCode": "NSUS1SC831",
+    "subjectName": "Sociology of Work",
+    "semester": 5
+  },
+  {
+    "subjectCode": "NSUS1HS410",
+    "subjectName": "Modern India",
+    "semester": 5
+  },
+  {
+    "subjectCode": "NSUS1HS411",
+    "subjectName": "Modern and Post Modern World",
+    "semester": 5
+  },
+  {
+    "subjectCode": "NSUS1HS431",
+    "subjectName": "Introduction to Society and Culture in East Asia",
+    "semester": 5
+  },
+  {
+    "subjectCode": "NSUS1HS432",
+    "subjectName": "Society and Economy of Medieval India",
+    "semester": 5
+  },
+  {
+    "subjectCode": "NSUS1EN210",
+    "subjectName": "Modernism",
+    "semester": 5
+  },
+  {
+    "subjectCode": "NSUS1EN211",
+    "subjectName": "Literary Theory",
+    "semester": 5
+  },
+  {
+    "subjectCode": "NSUS1EN231",
+    "subjectName": "Indian and World Literatures",
+    "semester": 5
+  },
+  {
+    "subjectCode": "NSUS1EN232",
+    "subjectName": "Issues of Gender in Indian Literary Texts",
+    "semester": 5
+  },
+  {
+    "subjectCode": "NSUS1PO610",
+    "subjectName": "India's Foreign Policy",
+    "semester": 5
+  },
+  {
+    "subjectCode": "NSUS1PO611",
+    "subjectName": "Public Policy",
+    "semester": 5
+  },
+  {
+    "subjectCode": "NSUS1PO631",
+    "subjectName": "Colonialism and Nationalism in India",
+    "semester": 5
+  },
+  {
+    "subjectCode": "NSUS1PO632",
+    "subjectName": "Party Politics in India",
+    "semester": 5
+  },
+  {
+    "subjectCode": "NSUS1GE001",
+    "subjectName": "Feminism: Theory and Practice",
+    "semester": 5
+  },
+  {
+    "subjectCode": "NSUS1EC111",
+    "subjectName": "Public Economics: Theory and Policy",
+    "semester": 5
+  },
+  {
+    "subjectCode": "NSUS1EC112",
+    "subjectName": "Development Economics",
+    "semester": 5
+  },
+  {
+    "subjectCode": "NSUS1EC131",
+    "subjectName": "Money Banking and Finance",
+    "semester": 5
+  },
+  {
+    "subjectCode": "NSUS1EC132",
+    "subjectName": "Computing for Economics",
+    "semester": 5
+  },
+  {
+    "subjectCode": "NSUS1GE913",
+    "subjectName": "School, Schooling and Education",
+    "semester": 7
+  },
+  {
+    "subjectCode": "NSUS1GE311",
+    "subjectName": "Computer Aur Hindi",
+    "semester": 7
+  },
+  {
+    "subjectCode": "NSUS1GE310",
+    "subjectName": "Bhartiya Katha Sahitya evam anya Gadya Vidhayen",
+    "semester": 7
+  },
+  {
+    "subjectCode": "NSUSPS715",
+    "subjectName": "Community Mental Health",
+    "semester": 7
+  },
+  {
+    "subjectCode": "NSUSPS734",
+    "subjectName": "Psychosocial Perspectives in Education",
+    "semester": 7
+  },
+  {
+    "subjectCode": "NSUSPS716",
+    "subjectName": "Advanced Research Methods in Psychology",
+    "semester": 7
+  },
+  {
+    "subjectCode": "NSUS1MA543",
+    "subjectName": "Advanced Analysis II",
+    "semester": 7
+  },
+  {
+    "subjectCode": "NSUS1MA544",
+    "subjectName": "Advanced Differential Equations",
+    "semester": 7
+  },
+  {
+    "subjectCode": "NSUS1MA545",
+    "subjectName": "Advanced Linear Algebra",
+    "semester": 7
+  },
+  {
+    "subjectCode": "NSUS1MA546",
+    "subjectName": "Introduction to Cryptography",
+    "semester": 7
+  },
+  {
+    "subjectCode": "NSUS1MA547",
+    "subjectName": "Research Methodology",
+    "semester": 7
+  },
+  {
+    "subjectCode": "NSUS1SC814",
+    "subjectName": "Culture, Identity and Society",
+    "semester": 7
+  },
+  {
+    "subjectCode": "NSUS1SC815",
+    "subjectName": "Research Methods in Sociology",
+    "semester": 7
+  },
+  {
+    "subjectCode": "NSUS1SC835",
+    "subjectName": "Economy and Society",
+    "semester": 7
+  },
+  {
+    "subjectCode": "NSUS1HS414",
+    "subjectName": "History of Science Technology and Medicine",
+    "semester": 7
+  },
+  {
+    "subjectCode": "NSUS1HS436",
+    "subjectName": "Reading and Academic Writing in Historical Study",
+    "semester": 7
+  },
+  {
+    "subjectCode": "NSUS1HS437",
+    "subjectName": "Theories and Methods in the Study of History",
+    "semester": 7
+  },
+  {
+    "subjectCode": "NSUS1EN215",
+    "subjectName": "Theories of Marginality",
+    "semester": 7
+  },
+  {
+    "subjectCode": "NSUS1EN236",
+    "subjectName": "Understanding Cinema",
+    "semester": 7
+  },
+  {
+    "subjectCode": "NSUS1EN237",
+    "subjectName": "Reading Crime Fiction",
+    "semester": 7
+  },
+  {
+    "subjectCode": "NSUS1EN238",
+    "subjectName": "Introduction to Cultural Studies",
+    "semester": 7
+  },
+  {
+    "subjectCode": "NSUS1EN216",
+    "subjectName": "Introduction to Research Methods",
+    "semester": 7
+  },
+  {
+    "subjectCode": "NSUS1PO614",
+    "subjectName": "Introduction to Global IR: Non-Western Perspective",
+    "semester": 7
+  },
+  {
+    "subjectCode": "NSUS1PO634",
+    "subjectName": "Citizenship in the Contemporary World",
+    "semester": 7
+  },
+  {
+    "subjectCode": "GE611",
+    "subjectName": "Peace and Conflict Studies: Origin, Theory and Approaches",
+    "semester": 7
+  },
+  {
+    "subjectCode": "GE610",
+    "subjectName": "Democracy, Governance and Development: The Indian Experience",
+    "semester": 7
+  },
+  {
+    "subjectCode": "NSUS1PO615",
+    "subjectName": "Research Methods for Political Science",
+    "semester": 7
+  },
+  {
+    "subjectCode": "NSUS1EC115",
+    "subjectName": "International Trade",
+    "semester": 7
+  },
+  {
+    "subjectCode": "NSUS1EC138",
+    "subjectName": "Economics of Regulation",
+    "semester": 7
+  },
+  {
+    "subjectCode": "NSUS1EC139",
+    "subjectName": "Theory of Industrial Organization",
+    "semester": 7
+  },
+  {
+    "subjectCode": "NSUS1EC121",
+    "subjectName": "Research Methods in Economics",
+    "semester": 7
+  },
+  {
+    "subjectCode": "NSUS1GE007",
+    "subjectName": "Reading Survey and Union Budget of India",
+    "semester": 7
+  }
+]
