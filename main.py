@@ -12,7 +12,7 @@ with open(os.path.join(os.path.dirname(__file__), 'subjectsList.json'), 'r') as 
 with open(os.path.join(os.path.dirname(__file__), 'timeTable.json'), 'r') as f:
     timetable_data = json.load(f)
 
-@app.route('/api/subjects', methods=['POST'])
+@app.route('/subjects', methods=['POST'])
 def get_subjects():
     try:
         data = request.get_json()
@@ -22,7 +22,7 @@ def get_subjects():
     except Exception as e:
         return jsonify({"error": str(e)}), 500
 
-@app.route('/api/timetable', methods=['POST'])
+@app.route('/timetable', methods=['POST'])
 def get_timetable():
     try:
         data = request.get_json()
