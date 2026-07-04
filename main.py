@@ -1,6 +1,6 @@
 import json
 import os
-from flask import Flask, request, jsonify
+from flask import Flask, request, jsonify, send_from_directory
 from flask_cors import CORS
 
 app = Flask(__name__)
@@ -11,6 +11,10 @@ with open(os.path.join(os.path.dirname(__file__), 'subjectsList.json'), 'r') as 
 
 with open(os.path.join(os.path.dirname(__file__), 'timeTable.json'), 'r') as f:
     timetable_data = json.load(f)
+
+@app.route('/')
+def index():
+    return send_from_directory(os.path.join(os.path.dirname(__file__), 'frontend'), 'index.html')
 
 @app.route('/subjects', methods=['POST'])
 def get_subjects():
