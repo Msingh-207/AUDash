@@ -1,9 +1,9 @@
 const days = [
-    document.getElementById('monday'), 
-    document.getElementById('tuesday'), 
-    document.getElementById('wednesday'), 
-    document.getElementById('thursday'), 
-    document.getElementById('friday'), 
+    document.getElementById('monday'),
+    document.getElementById('tuesday'),
+    document.getElementById('wednesday'),
+    document.getElementById('thursday'),
+    document.getElementById('friday'),
     document.getElementById('saturday')
 ];
 
@@ -17,9 +17,9 @@ const subjectDropdowns = [
 
 const generateTimetable = document.getElementById("generateTimetable");
 const semesters = [
-    document.getElementById('1'), 
-    document.getElementById('3'), 
-    document.getElementById('5'), 
+    document.getElementById('1'),
+    document.getElementById('3'),
+    document.getElementById('5'),
     document.getElementById('7')
 ];
 
@@ -50,24 +50,24 @@ function saveSubjectsToStorage() {
 }
 
 async function generateTimetableFlow() {
-    saveSubjectsToStorage(); 
+    saveSubjectsToStorage();
     const savedSubjects = JSON.parse(localStorage.getItem('audSelectedSubjects'));
-    
+
     if (!savedSubjects || savedSubjects.length === 0 || savedSubjects.every(val => !val || val === "")) {
         alert("Please select your subjects first!");
         return;
     }
 
     try {
-        const response = await fetch('http://127.0.0.1:8000/api/timetable', { 
+        const response = await fetch('http://127.0.0.1:8000/api/timetable', {
             method: 'POST',
             headers: { 'Content-Type': 'application/json' },
             body: JSON.stringify({ subjects: savedSubjects })
         });
 
-        currentSubjectsTimetable = await response.json(); 
+        currentSubjectsTimetable = await response.json();
         localStorage.setItem('cachedTimetableData', JSON.stringify(currentSubjectsTimetable));
-        
+
         filterTimetableByDay('Monday');
 
     } catch (error) {
@@ -86,19 +86,38 @@ function filterTimetableByDay(selectedDay) {
         const dayValue = slot.day || slot.dayName;
         return dayValue && dayValue.toLowerCase().trim() === selectedDay.toLowerCase().trim();
     });
+    const classesDiv = document.getElementById('classes');
+    let outputHTML = '';
 
+    outputHTML += dailySchedule.map(item => `
+        <div class="output">
+            <div>
+            <img src="images/book_5_24dp_1F1F1F_FILL0_wght400_GRAD0_opsz24.svg" alt="Book Icon"> Subject: ${item.subject} <br>
+            </div>
+            <div>
+            <img src="images/sensor_door_24dp_1F1F1F_FILL0_wght400_GRAD0_opsz24.svg" alt="Room Icon"> Room: ${item.room} 
+            </div>
+            <div>
+            <img src="images/clock_loader_10_24dp_1F1F1F_FILL0_wght400_GRAD0_opsz24.svg" alt="Time Icon"> Time: ${item.time} 
+            </div>
+            <div>
+            <img src="images/calendar_month_24dp_1F1F1F_FILL0_wght400_GRAD0_opsz24.svg" alt="Calendar Icon"> Day: ${item.day}
+            </div>
+        </div>
+    `).join('');
+    classesDiv.innerHTML = outputHTML;
     console.log(dailySchedule);
 }
 
 async function fetchSubjects(semesterId) {
     try {
-        const response = await fetch(`http://127.0.0.1:8000/api/subjects`, { 
+        const response = await fetch(`http://127.0.0.1:8000/api/subjects`, {
             method: 'POST',
             headers: { 'Content-Type': 'application/json' },
             body: JSON.stringify({ semester: semesterId })
         });
-        
-        const filteredSem = await response.json(); 
+
+        const filteredSem = await response.json();
         const baseSubjectNames = filteredSem.map(sub => sub.subjectName);
 
         const ttResponse = await fetch(`http://127.0.0.1:8000/api/timetable`, {
@@ -115,10 +134,10 @@ async function fetchSubjects(semesterId) {
             }
         });
 
-        const optionsToRender = uniqueSectionNames.size > 0 
-            ? Array.from(uniqueSectionNames).sort() 
+        const optionsToRender = uniqueSectionNames.size > 0
+            ? Array.from(uniqueSectionNames).sort()
             : baseSubjectNames.sort();
-        
+
         subjectDropdowns.forEach(dropdown => {
             if (dropdown) dropdown.innerHTML = '<option value="">Select Subject</option>';
         });
@@ -127,8 +146,8 @@ async function fetchSubjects(semesterId) {
             subjectDropdowns.forEach(dropdown => {
                 if (dropdown) {
                     const option = document.createElement('option');
-                    option.value = subjectName; 
-                    option.textContent = subjectName; 
+                    option.value = subjectName;
+                    option.textContent = subjectName;
                     dropdown.appendChild(option);
                 }
             });
@@ -145,7 +164,7 @@ async function initAppPersistence() {
 
     if (savedSem) {
         await fetchSubjects(parseInt(savedSem));
-        
+
         if (savedSubjects && savedSubjects.length > 0) {
             savedSubjects.forEach((subjectName, index) => {
                 if (subjectDropdowns[index]) {
