@@ -13,7 +13,7 @@ with open('timeTable.json', 'r') as f:
 
 @app.route('/')
 def index():
-    return send_from_directory('frontend', 'index.html')
+    return send_from_directory("./public", "index.html")
 
 @app.route('/subjects', methods=['POST'])
 def get_subjects():
