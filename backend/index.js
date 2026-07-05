@@ -59,7 +59,7 @@ async function generateTimetableFlow() {
     }
 
     try {
-        const response = await fetch('/timetable', {
+        const response = await fetch('/api/timetable', {
             method: 'POST',
             headers: { 'Content-Type': 'application/json' },
             body: JSON.stringify({ subjects: savedSubjects })
@@ -111,7 +111,7 @@ function filterTimetableByDay(selectedDay) {
 
 async function fetchSubjects(semesterId) {
     try {
-        const response = await fetch(`/subjects`, {
+        const response = await fetch(`/api/subjects`, {
             method: 'POST',
             headers: { 'Content-Type': 'application/json' },
             body: JSON.stringify({ semester: semesterId })
@@ -120,7 +120,7 @@ async function fetchSubjects(semesterId) {
         const filteredSem = await response.json();
         const baseSubjectNames = filteredSem.map(sub => sub.subjectName);
 
-        const ttResponse = await fetch(`/timetable`, {
+        const ttResponse = await fetch(`/api/timetable`, {
             method: 'POST',
             headers: { 'Content-Type': 'application/json' },
             body: JSON.stringify({ subjects: baseSubjectNames })
