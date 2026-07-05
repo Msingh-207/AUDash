@@ -13,9 +13,9 @@ with open('timeTable.json', 'r') as f:
 
 @app.route('/')
 def index():
-    return send_from_directory("./public", "index.html")
+    return send_from_directory("/", "index.html")
 
-@app.route('/subjects', methods=['POST'])
+@app.route('/api/subjects', methods=['POST'])
 def get_subjects():
     try:
         data = request.get_json()
@@ -25,7 +25,7 @@ def get_subjects():
     except Exception as e:
         return jsonify({"error": str(e)}), 500
 
-@app.route('/timetable', methods=['POST'])
+@app.route('/api/timetable', methods=['POST'])
 def get_timetable():
     try:
         data = request.get_json()
