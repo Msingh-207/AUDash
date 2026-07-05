@@ -92,16 +92,16 @@ function filterTimetableByDay(selectedDay) {
     outputHTML += dailySchedule.map(item => `
         <div class="output">
             <div>
-            <img src="images/book_5_24dp_1F1F1F_FILL0_wght400_GRAD0_opsz24.svg" alt="Book Icon"> Subject: ${item.subject} <br>
+            <img src="../frontend/images/book_5_24dp_1F1F1F_FILL0_wght400_GRAD0_opsz24.svg" alt="Book Icon"> Subject: ${item.subject} <br>
             </div>
             <div>
-            <img src="images/sensor_door_24dp_1F1F1F_FILL0_wght400_GRAD0_opsz24.svg" alt="Room Icon"> Room: ${item.room} 
+            <img src="../frontend/images/sensor_door_24dp_1F1F1F_FILL0_wght400_GRAD0_opsz24.svg" alt="Room Icon"> Room: ${item.room} 
             </div>
             <div>
-            <img src="images/clock_loader_10_24dp_1F1F1F_FILL0_wght400_GRAD0_opsz24.svg" alt="Time Icon"> Time: ${item.time} 
+            <img src="../frontend/images/clock_loader_10_24dp_1F1F1F_FILL0_wght400_GRAD0_opsz24.svg" alt="Time Icon"> Time: ${item.time} 
             </div>
             <div>
-            <img src="images/calendar_month_24dp_1F1F1F_FILL0_wght400_GRAD0_opsz24.svg" alt="Calendar Icon"> Day: ${item.day}
+            <img src="../frontend/images/calendar_month_24dp_1F1F1F_FILL0_wght400_GRAD0_opsz24.svg" alt="Calendar Icon"> Day: ${item.day}
             </div>
         </div>
     `).join('');
