@@ -97,6 +97,11 @@ button {
   padding: 10px;
 }
 
+.change {
+  font-size: 10px;
+  color: gray;
+}
+
 .classes {
   color: var(--dark-bg);
   padding: 3px 5px 3px 5px;
