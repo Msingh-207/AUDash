@@ -1,17 +1,28 @@
-var settingsDiv = document.querySelector('.settings');
-var display = 0;
-var settingsIcon = document.querySelector('.settings-icon');
+const settingsDiv = document.querySelector('.settings');
+const settingsIcon = document.querySelector('.settings-icon');
+const buttons = document.querySelectorAll('.btn-div button');
 
-function hideShow (){
-  if(display == 1){
-    settingsDiv.style.display = 'block';
-    display = 0;
-    settingsDiv.classList.toggle('is-visible')
-  } else {
-    settingsDiv.style.display = 'none';
-    display = 1;
-    settingsDiv.classList.toggle('is-visible')
-  }
+buttons.forEach(button => {
+  button.addEventListener('click', function() {
+    
+    // Change '.btn-group' to '.btn-div' to match your HTML!
+    const parentDiv = this.closest('.btn-div'); 
+    
+    // Safety check: make sure the parent container was actually found
+    if (!parentDiv) return;
+
+    const currentActive = parentDiv.querySelector('button.active');
+    
+    if (currentActive) {
+      currentActive.classList.remove('active');
+    }
+    this.classList.add('active');
+  });
+});
+
+
+function hideShow() {
+  settingsDiv.classList.toggle('is-visible');
 }
 
 settingsIcon.addEventListener('click', hideShow);
