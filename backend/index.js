@@ -181,5 +181,3 @@ async function initAppPersistence() {
 }
 
 document.addEventListener('DOMContentLoaded', initAppPersistence);
-
-// merged it 
