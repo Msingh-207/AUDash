@@ -80,7 +80,7 @@ button {
   transition: background-color 0.3s;
 }
 .settings.is-visible {
-  max-height: 300px; 
+  max-height: 400px; 
   opacity: 1;
   pointer-events: auto;
 }
