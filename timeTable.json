@@ -43,7 +43,7 @@
   },
   {
     "day": "Monday",
-    "subject": "ENM001",
+    "subject": "Language, Learning, and the Learner",
     "courseCode": "ENM001",
     "time": "9-11",
     "room": "N-4"
@@ -134,7 +134,7 @@
   },
   {
     "day": "Monday",
-    "subject": "Introduction to Sociological  Concepts and Thinkers",
+    "subject": "Introduction to Sociological Concepts and Thinkers",
     "courseCode": "SC819",
     "time": "11-1",
     "room": "CR-11"
@@ -197,7 +197,7 @@
   },
   {
     "day": "Monday",
-    "subject": "Bhartiya katha Sahitya evam anya Gadya Vidhayen (GE Hindi)",
+    "subject": "Bhartiya katha Sahitya evam anya Gadya Vidhayen\n(GE Hindi)",
     "courseCode": "GE310",
     "time": "1.30-3.30",
     "room": "WS-1A"
@@ -218,7 +218,7 @@
   },
   {
     "day": "Monday",
-    "subject": "Understanding the Past: Myths, Epics, Chronicles and Histories",
+    "subject": "Understanding the Past: Myths, Epics, Chronicles\nand Histories",
     "courseCode": "HS401",
     "time": "1.30-3.30",
     "room": "CR-11"
@@ -267,7 +267,7 @@
   },
   {
     "day": "Monday",
-    "subject": "Protests, Resistance and Movements in Colonial India",
+    "subject": "Protests, Resistance and Movements in Colonial\nIndia",
     "courseCode": "HS436",
     "time": "3.30-5.30",
     "room": "WS-1A"
@@ -505,7 +505,7 @@
   },
   {
     "day": "Tuesday",
-    "subject": "Introduction to Global International Relations: Non-Western Perspective",
+    "subject": "Introduction to Global International Relations:\nNon-Western Perspective",
     "courseCode": "PO614",
     "time": "1.30-3.30",
     "room": "CR-1"
@@ -624,7 +624,7 @@
   },
   {
     "day": "Tuesday",
-    "subject": "Histories of Caste: Hierarchy, Identity and Resistance in South Asia",
+    "subject": "Histories of Caste: Hierarchy, Identity and\nResistance in South Asia",
     "courseCode": "HS433",
     "time": "3.30-5.30",
     "room": "WS-1A"
@@ -729,7 +729,7 @@
   },
   {
     "day": "Wednesday",
-    "subject": "ENM001",
+    "subject": "Language, Learning, and the Learner",
     "courseCode": "ENM001",
     "time": "9-11",
     "room": "N-4"
@@ -813,7 +813,7 @@
   },
   {
     "day": "Wednesday",
-    "subject": "Introduction to Sociological  Concepts and Thinkers",
+    "subject": "Introduction to Sociological Concepts and Thinkers",
     "courseCode": "SC819",
     "time": "11-1",
     "room": "CR-11"
@@ -876,7 +876,7 @@
   },
   {
     "day": "Wednesday",
-    "subject": "Bhartiya katha Sahitya evam anya Gadya Vidhayen (GE Hindi)",
+    "subject": "Bhartiya katha Sahitya evam anya Gadya Vidhayen\n(GE Hindi)",
     "courseCode": "GE310",
     "time": "1.30-3.30",
     "room": "WS-1A"
@@ -897,7 +897,7 @@
   },
   {
     "day": "Wednesday",
-    "subject": "Understanding the Past: Myths, Epics, Chronicles and Histories",
+    "subject": "Understanding the Past: Myths, Epics, Chronicles\nand Histories",
     "courseCode": "HS401",
     "time": "1.30-3.30",
     "room": "CR-11"
@@ -946,7 +946,7 @@
   },
   {
     "day": "Wednesday",
-    "subject": "Protests, Resistance and Movements in Colonial India",
+    "subject": "Protests, Resistance and Movements in Colonial\nIndia",
     "courseCode": "HS436",
     "time": "3.30-5.30",
     "room": "WS-1A"
@@ -1184,7 +1184,7 @@
   },
   {
     "day": "Thursday",
-    "subject": "Introduction to Global International Relations: Non-Western Perspective",
+    "subject": "Introduction to Global International Relations:\nNon-Western Perspective",
     "courseCode": "PO614",
     "time": "1.30-3.30",
     "room": "CR-1"
@@ -1303,7 +1303,7 @@
   },
   {
     "day": "Thursday",
-    "subject": "Histories of Caste: Hierarchy, Identity and Resistance in South Asia",
+    "subject": "Histories of Caste: Hierarchy, Identity and\nResistance in South Asia",
     "courseCode": "HS433",
     "time": "3.30-5.30",
     "room": "WS-1A"
@@ -1380,7 +1380,7 @@
   },
   {
     "day": "Friday",
-    "subject": "Democracy, Governance and Development: The Indian Experience",
+    "subject": "Democracy, Governance and Development: The\nIndian Experience",
     "courseCode": "PO635",
     "time": "9-11",
     "room": "CR-3"
@@ -1436,7 +1436,7 @@
   },
   {
     "day": "Friday",
-    "subject": "GEPO1",
+    "subject": "Globalization and Politics",
     "courseCode": "GEPO1",
     "time": "9-11",
     "room": "N-4"
@@ -1705,6 +1705,223 @@
     "subject": "Clinical Case Study - Practicum B",
     "courseCode": "PS711",
     "time": "3.30-5.30",
+    "room": "308"
+  },
+  {
+    "day": "Saturday",
+    "subject": "Medieval India 1",
+    "courseCode": "HS404",
+    "time": "9-11",
+    "room": "305"
+  },
+  {
+    "day": "Saturday",
+    "subject": "Public Policy",
+    "courseCode": "PO611",
+    "time": "9-11",
+    "room": "CR-1"
+  },
+  {
+    "day": "Saturday",
+    "subject": "Democracy, Governance and Development: The\nIndian Experience",
+    "courseCode": "PO635",
+    "time": "9-11",
+    "room": "CR-3"
+  },
+  {
+    "day": "Saturday",
+    "subject": "Psychology in Action A",
+    "courseCode": "PS731",
+    "time": "9-11",
+    "room": "CR-4"
+  },
+  {
+    "day": "Saturday",
+    "subject": "Psychology in Action B",
+    "courseCode": "PS731",
+    "time": "9-11",
+    "room": "CR-5"
+  },
+  {
+    "day": "Saturday",
+    "subject": "Culture, Identity and Society",
+    "courseCode": "SC814",
+    "time": "9-11",
+    "room": "CR-6"
+  },
+  {
+    "day": "Saturday",
+    "subject": "VAC1",
+    "courseCode": "VAC1",
+    "time": "9-11",
+    "room": "WS-1A"
+  },
+  {
+    "day": "Saturday",
+    "subject": "VAC2",
+    "courseCode": "VAC2",
+    "time": "9-11",
+    "room": "SSR-1"
+  },
+  {
+    "day": "Saturday",
+    "subject": "VAC3",
+    "courseCode": "VAC3",
+    "time": "9-11",
+    "room": "SSR-2"
+  },
+  {
+    "day": "Saturday",
+    "subject": "VAC4",
+    "courseCode": "VAC4",
+    "time": "9-11",
+    "room": "SSR-3"
+  },
+  {
+    "day": "Saturday",
+    "subject": "Globalization and Politics",
+    "courseCode": "GEPO1",
+    "time": "9-11",
+    "room": "N-4"
+  },
+  {
+    "day": "Saturday",
+    "subject": "Financial Economics",
+    "courseCode": "EC140",
+    "time": "9-11",
+    "room": "N-5"
+  },
+  {
+    "day": "Saturday",
+    "subject": "Social Psychology A",
+    "courseCode": "PS704",
+    "time": "9-11",
+    "room": "301"
+  },
+  {
+    "day": "Saturday",
+    "subject": "Social Psychology B",
+    "courseCode": "PS704",
+    "time": "9-11",
+    "room": "308"
+  },
+  {
+    "day": "Saturday",
+    "subject": "State Politics in India A",
+    "courseCode": "PO605",
+    "time": "11-1",
+    "room": "305"
+  },
+  {
+    "day": "Saturday",
+    "subject": "Politics, Law and Society",
+    "courseCode": "SC806",
+    "time": "11-1",
+    "room": "CR-1"
+  },
+  {
+    "day": "Saturday",
+    "subject": "Understanding Cinema",
+    "courseCode": "EN236",
+    "time": "11-1",
+    "room": "WS-2B"
+  },
+  {
+    "day": "Saturday",
+    "subject": "Citizenship in the Contemporary World",
+    "courseCode": "PO634",
+    "time": "11-1",
+    "room": "CR-3"
+  },
+  {
+    "day": "Saturday",
+    "subject": "Community Mental Health",
+    "courseCode": "PS715",
+    "time": "11-1",
+    "room": "CR-4"
+  },
+  {
+    "day": "Saturday",
+    "subject": "Food and Society",
+    "courseCode": "SC832",
+    "time": "11-1",
+    "room": "CR-5"
+  },
+  {
+    "day": "Saturday",
+    "subject": "Neuropsychology A",
+    "courseCode": "PS732",
+    "time": "11-1",
+    "room": "CR-6"
+  },
+  {
+    "day": "Saturday",
+    "subject": "Logic & Reasoning",
+    "courseCode": "AE044",
+    "time": "11-1",
+    "room": "WS-1A"
+  },
+  {
+    "day": "Saturday",
+    "subject": "State Politics in India B",
+    "courseCode": "PO605",
+    "time": "11-1",
+    "room": "SSR-1"
+  },
+  {
+    "day": "Saturday",
+    "subject": "Understanding Poetry A",
+    "courseCode": "EN202",
+    "time": "11-1",
+    "room": "SSR-2"
+  },
+  {
+    "day": "Saturday",
+    "subject": "Understanding Poetry B",
+    "courseCode": "EN202",
+    "time": "11-1",
+    "room": "SSR-3"
+  },
+  {
+    "day": "Saturday",
+    "subject": "Statistics A",
+    "courseCode": "PS705",
+    "time": "11-1",
+    "room": "N-4"
+  },
+  {
+    "day": "Saturday",
+    "subject": "Statistics B",
+    "courseCode": "PS705",
+    "time": "11-1",
+    "room": "N-5"
+  },
+  {
+    "day": "Saturday",
+    "subject": "Understanding Political Theory B",
+    "courseCode": "PO601",
+    "time": "11-1",
+    "room": "NL-2"
+  },
+  {
+    "day": "Saturday",
+    "subject": "Understanding Political Theory A",
+    "courseCode": "PO601",
+    "time": "11-1",
+    "room": "CR-11"
+  },
+  {
+    "day": "Saturday",
+    "subject": "Society and Economy of Medieval India",
+    "courseCode": "HS432",
+    "time": "11-1",
+    "room": "301"
+  },
+  {
+    "day": "Saturday",
+    "subject": "Neuropsychology B",
+    "courseCode": "PS732",
+    "time": "11-1",
     "room": "308"
   },
   {
