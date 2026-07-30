@@ -71,7 +71,7 @@ async function generateTimetableFlow() {
         currentSubjectsTimetable = await response.json();
         localStorage.setItem('cachedTimetableData', JSON.stringify(currentSubjectsTimetable));
 
-        filterTimetableByDay('dayIndex');
+        filterTimetableByDay(dayIndex);
 
     } catch (error) {
         console.error(error);
@@ -179,7 +179,7 @@ async function initAppPersistence() {
 
     if (cachedTimetable) {
         currentSubjectsTimetable = JSON.parse(cachedTimetable);
-        filterTimetableByDay('dayIndex');
+        filterTimetableByDay(dayIndex);
     }
 }
 
