@@ -7,6 +7,9 @@ const days = [
     document.getElementById('saturday')
 ];
 
+const dayIndex = new Date().toLocaleDateString('en-US', { weekday: 'long' });
+console.log(dayIndex)
+
 const subjectDropdowns = [
     document.getElementById('subject-1'),
     document.getElementById('subject-2'),
@@ -59,7 +62,7 @@ async function generateTimetableFlow() {
     }
 
     try {
-        const response = await fetch('/api/timetable', {
+        const response = await fetch('http://127.0.0.1:8000/api/timetable', {
             method: 'POST',
             headers: { 'Content-Type': 'application/json' },
             body: JSON.stringify({ subjects: savedSubjects })
@@ -68,7 +71,7 @@ async function generateTimetableFlow() {
         currentSubjectsTimetable = await response.json();
         localStorage.setItem('cachedTimetableData', JSON.stringify(currentSubjectsTimetable));
 
-        filterTimetableByDay('Monday');
+        filterTimetableByDay('dayIndex');
 
     } catch (error) {
         console.error(error);
@@ -111,7 +114,7 @@ function filterTimetableByDay(selectedDay) {
 
 async function fetchSubjects(semesterId) {
     try {
-        const response = await fetch(`/api/subjects`, {
+        const response = await fetch(`http://127.0.0.1:8000/api/subjects`, {
             method: 'POST',
             headers: { 'Content-Type': 'application/json' },
             body: JSON.stringify({ semester: semesterId })
@@ -120,7 +123,7 @@ async function fetchSubjects(semesterId) {
         const filteredSem = await response.json();
         const baseSubjectNames = filteredSem.map(sub => sub.subjectName);
 
-        const ttResponse = await fetch(`/api/timetable`, {
+        const ttResponse = await fetch(`http://127.0.0.1:8000/api/timetable`, {
             method: 'POST',
             headers: { 'Content-Type': 'application/json' },
             body: JSON.stringify({ subjects: baseSubjectNames })
@@ -176,7 +179,7 @@ async function initAppPersistence() {
 
     if (cachedTimetable) {
         currentSubjectsTimetable = JSON.parse(cachedTimetable);
-        filterTimetableByDay('Monday');
+        filterTimetableByDay('dayIndex');
     }
 }
 
