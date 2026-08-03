@@ -71,13 +71,6 @@
   },
   {
     "day": "Monday",
-    "subject": "Marriage, Kinship and Family Forms",
-    "courseCode": "SC805",
-    "time": "11-1",
-    "room": "CR-1"
-  },
-  {
-    "day": "Monday",
     "subject": "Psychosocial Perspectives in Education",
     "courseCode": "PS734",
     "time": "11-1",
@@ -138,6 +131,13 @@
     "courseCode": "SC819",
     "time": "11-1",
     "room": "CR-11"
+  },
+{
+    "day": "Monday",
+    "subject": "Marriage, Kinship and Family Forms",
+    "courseCode": "SC805",
+    "time": "11-1",
+    "room": "CR-3"
   },
   {
     "day": "Monday",
@@ -1083,13 +1083,6 @@
     "courseCode": "MA505",
     "time": "11-1",
     "room": "WS-2B"
-  },
-  {
-    "day": "Thursday",
-    "subject": "Marriage, Kinship and Family Forms",
-    "courseCode": "SC805",
-    "time": "11-1",
-    "room": "CR-3"
   },
   {
     "day": "Thursday",
