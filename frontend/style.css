@@ -1,5 +1,5 @@
 :root {
-  --dark-bg: rgb(8, 8, 8);
+  --dark-bg: #121212;
   --dark-text: white;
   --text-temp: Arial, bolder
 }
@@ -31,6 +31,7 @@ h5 {
 button {
   background-color: var(--dark-bg);
   color: var(--dark-text);
+  font-weight: 600;
   border: none;
   border-radius: 6px;
   padding: 8px 12px 8px 12px;
@@ -83,11 +84,18 @@ button {
   opacity: 1;
   pointer-events: auto;
 }
+.title {
+  display: flex;
+  justify-content: left;
+  align-items: center;
+  gap: 10px;
+}
+
 
 .intro {
-  padding: 20px 0px 10px 10px;
+  padding: 40px 0px 40px 30px;
   display: flex;
-  justify-content: space-between;
+  justify-content: left;
   align-items: center;
   border-bottom: 1px solid gray;
   margin-bottom: 10px;
@@ -133,6 +141,7 @@ select {
 #generateTimetable {
   display: flex;
   justify-content: center;
+  font-weight: bold;
   align-items: center;
   margin-bottom: 12px;
   height: 50px;
@@ -197,7 +206,7 @@ select {
 }
 .img-container {
   display: flex;
-  gap: 10px;
+  gap: 5px;
   justify-content: center;
   align-items: center;
 }
