@@ -405,13 +405,7 @@
     "time": "11-1",
     "room": "WS-2B"
   },
-  {
-    "day": "Tuesday",
-    "subject": "Marriage, Kinship and Family Forms",
-    "courseCode": "SC805",
-    "time": "11-1",
-    "room": "CR-3"
-  },
+ 
   {
     "day": "Tuesday",
     "subject": "Reading Crime Fiction",
@@ -1083,6 +1077,13 @@
     "courseCode": "MA505",
     "time": "11-1",
     "room": "WS-2B"
+  },
+  {
+    "day": "Thursday",
+    "subject": "Marriage, Kinship and Family Forms",
+    "courseCode": "SC805",
+    "time": "11-1",
+    "room": "CR-3"
   },
   {
     "day": "Thursday",
