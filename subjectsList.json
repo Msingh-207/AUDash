@@ -41,27 +41,27 @@
   },
   {
     "subjectCode": "NSUS1VA001",
-    "subjectName": "",
+    "subjectName": null,
     "semester": 1
   },
   {
     "subjectCode": "NSUS1VA002",
-    "subjectName": "",
+    "subjectName": null,
     "semester": 1
   },
   {
     "subjectCode": "NSUS1VA003",
-    "subjectName": "",
+    "subjectName": null,
     "semester": 1
   },
   {
     "subjectCode": "NSUS1VA004",
-    "subjectName": "",
+    "subjectName": null,
     "semester": 1
   },
   {
     "subjectCode": "DSC1 - NSUS1PS701",
-    "subjectName": "Understanding personality",
+    "subjectName": "Understanding Self and Personality",
     "semester": 1
   },
   {
@@ -86,7 +86,7 @@
   },
   {
     "subjectCode": "NSUS1SC819 - DSC",
-    "subjectName": "Introduction to Sociological Concepts and Thinkers",
+    "subjectName": "Introduction to Sociological  Concepts and Thinkers",
     "semester": 1
   },
   {
@@ -96,7 +96,7 @@
   },
   {
     "subjectCode": "NSUS1HS401 - DSC",
-    "subjectName": "Understanding the Past: Myths, Epics, Chronicles\nand Histories",
+    "subjectName": "Understanding the Past: Myths, Epics, Chronicles and Histories",
     "semester": 1
   },
   {
@@ -306,7 +306,7 @@
   },
   {
     "subjectCode": "DSC11 - NSUS1PS711",
-    "subjectName": "Clinical Case Study - Practicum",
+    "subjectName": "Clinical Case Study Method",
     "semester": 5
   },
   {
@@ -316,7 +316,7 @@
   },
   {
     "subjectCode": "DSE2 - NSUS1PS732",
-    "subjectName": "Neuropsychology",
+    "subjectName": "Neuropsychology Through Clinical Cases",
     "semester": 5
   },
   {
@@ -362,11 +362,6 @@
   {
     "subjectCode": "NSUS1HS411 - DSC",
     "subjectName": "Modern and Post Modern World",
-    "semester": 5
-  },
-  {
-    "subjectCode": "NSUS1HS431 - DSE",
-    "subjectName": "Introduction to Society and Culture in East Asia",
     "semester": 5
   },
   {
@@ -441,7 +436,7 @@
   },
   {
     "subjectCode": "NSUS1GE310",
-    "subjectName": "Bhartiya katha Sahitya evam anya Gadya Vidhayen\n(GE Hindi)",
+    "subjectName": "Bhartiya katha Sahitya evam anya Gadya Vidhayen (GE Hindi)",
     "semester": 7
   },
   {
@@ -486,12 +481,17 @@
   },
   {
     "subjectCode": "NSUS1HS436 - DSE",
-    "subjectName": "Protests, Resistance and Movements in Colonial\nIndia",
+    "subjectName": "Protests, Resistance and Movements in Colonial India",
+    "semester": 7
+  },
+  {
+    "subjectCode": "NSUS1HS435",
+    "subjectName": "Introduction to Indian Art and Architecture",
     "semester": 7
   },
   {
     "subjectCode": "NSUS1HS433",
-    "subjectName": "Histories of Caste: Hierarchy, Identity and\nResistance in South Asia",
+    "subjectName": "Histories of Caste: Hierarchy, Identity and Resistance in South Asia",
     "semester": 7
   },
   {
@@ -526,7 +526,7 @@
   },
   {
     "subjectCode": "NSUS1PO614 -DSC",
-    "subjectName": "Introduction to Global International Relations:\nNon-Western Perspective",
+    "subjectName": "Introduction to Global International Relations: Non-Western Perspective",
     "semester": 7
   },
   {
@@ -541,7 +541,7 @@
   },
   {
     "subjectCode": "NSUS1PO635 -DSE",
-    "subjectName": "Democracy, Governance and Development: The\nIndian Experience",
+    "subjectName": "Democracy, Governance and Development: The Indian Experience",
     "semester": 7
   },
   {

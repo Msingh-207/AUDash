@@ -22,8 +22,8 @@
   },
   {
     "day": "Monday",
-    "subject": "Introduction to Society and Culture in East Asia",
-    "courseCode": "HS431",
+    "subject": "Introduction to Indian Art and Architecture",
+    "courseCode": "HS435",
     "time": "9-11",
     "room": "CR-3"
   },
@@ -71,6 +71,27 @@
   },
   {
     "day": "Monday",
+    "subject": "Ph D Maths Fractional Differential Equations",
+    "courseCode": "Ph D Maths Fractional Differential Equations",
+    "time": "11-12",
+    "room": "71F"
+  },
+  {
+    "day": "Monday",
+    "subject": "Statistical Methods for Economics A",
+    "courseCode": "EC104",
+    "time": "11-1",
+    "room": "CR-1"
+  },
+  {
+    "day": "Monday",
+    "subject": "Marriage, Kinship and Family Forms",
+    "courseCode": "SC805",
+    "time": "11-1",
+    "room": "CR-3"
+  },
+  {
+    "day": "Monday",
     "subject": "Psychosocial Perspectives in Education",
     "courseCode": "PS734",
     "time": "11-1",
@@ -106,10 +127,10 @@
   },
   {
     "day": "Monday",
-    "subject": "Statistical Methods for Economics A",
-    "courseCode": "EC104",
+    "subject": "Medieval World",
+    "courseCode": "HS405",
     "time": "11-1",
-    "room": "CR-1"
+    "room": "N-4"
   },
   {
     "day": "Monday",
@@ -120,28 +141,21 @@
   },
   {
     "day": "Monday",
-    "subject": "Understanding personality B",
+    "subject": "Understanding Self and Personality B",
     "courseCode": "PS701",
     "time": "11-1",
     "room": "NL-2"
   },
   {
     "day": "Monday",
-    "subject": "Introduction to Sociological Concepts and Thinkers",
+    "subject": "Introduction to Sociological  Concepts and Thinkers",
     "courseCode": "SC819",
     "time": "11-1",
     "room": "CR-11"
   },
-{
-    "day": "Monday",
-    "subject": "Marriage, Kinship and Family Forms",
-    "courseCode": "SC805",
-    "time": "11-1",
-    "room": "CR-3"
-  },
   {
     "day": "Monday",
-    "subject": "Understanding personality A",
+    "subject": "Understanding Self and Personality A",
     "courseCode": "PS701",
     "time": "11-1",
     "room": "301"
@@ -152,6 +166,13 @@
     "courseCode": "HS406",
     "time": "1.30-3.30",
     "room": "305"
+  },
+  {
+    "day": "Monday",
+    "subject": "Ph D English",
+    "courseCode": "Ph D English",
+    "time": "1.30-2.30",
+    "room": "71B"
   },
   {
     "day": "Monday",
@@ -197,10 +218,17 @@
   },
   {
     "day": "Monday",
-    "subject": "Bhartiya katha Sahitya evam anya Gadya Vidhayen\n(GE Hindi)",
+    "subject": "Bhartiya katha Sahitya evam anya Gadya Vidhayen (GE Hindi)",
     "courseCode": "GE310",
     "time": "1.30-3.30",
     "room": "WS-1A"
+  },
+  {
+    "day": "Monday",
+    "subject": "Ph D Maths Advanced Group Theory",
+    "courseCode": "Ph D Maths Advanced Group Theory",
+    "time": "1.30-3.30",
+    "room": "SSR-1"
   },
   {
     "day": "Monday",
@@ -218,7 +246,14 @@
   },
   {
     "day": "Monday",
-    "subject": "Understanding the Past: Myths, Epics, Chronicles\nand Histories",
+    "subject": "Research Methods in Economics",
+    "courseCode": "EC121",
+    "time": "1.30-3.30",
+    "room": "NL-2"
+  },
+  {
+    "day": "Monday",
+    "subject": "Understanding the Past: Myths, Epics, Chronicles and Histories",
     "courseCode": "HS401",
     "time": "1.30-3.30",
     "room": "CR-11"
@@ -267,7 +302,7 @@
   },
   {
     "day": "Monday",
-    "subject": "Protests, Resistance and Movements in Colonial\nIndia",
+    "subject": "Protests, Resistance and Movements in Colonial India",
     "courseCode": "HS436",
     "time": "3.30-5.30",
     "room": "WS-1A"
@@ -294,11 +329,32 @@
     "room": "CR-11"
   },
   {
+    "day": "Monday",
+    "subject": "Bidhan MA Course",
+    "courseCode": "Bidhan MA Course",
+    "time": "3.30-5.30",
+    "room": "301"
+  },
+  {
     "day": "Tuesday",
     "subject": "Western Political Thought A",
     "courseCode": "PO604",
     "time": "9-11",
     "room": "305"
+  },
+  {
+    "day": "Tuesday",
+    "subject": "Ph D Maths Approximation Theory",
+    "courseCode": "Ph D Maths Approximation Theory",
+    "time": "9-10",
+    "room": "71B"
+  },
+  {
+    "day": "Tuesday",
+    "subject": "Ph D Maths Fractional Differential Equations",
+    "courseCode": "Ph D Maths Fractional Differential Equations",
+    "time": "9-10",
+    "room": "71F"
   },
   {
     "day": "Tuesday",
@@ -354,7 +410,7 @@
     "subject": "Statistical Methods for Economics B",
     "courseCode": "EC104",
     "time": "9-11",
-    "room": "N-4"
+    "room": "N-5"
   },
   {
     "day": "Tuesday",
@@ -393,6 +449,13 @@
   },
   {
     "day": "Tuesday",
+    "subject": "Ph D Maths Numerical Analysis",
+    "courseCode": "Ph D Maths Numerical Analysis",
+    "time": "11-12",
+    "room": "71F"
+  },
+  {
+    "day": "Tuesday",
     "subject": "Microeconomics-1 A",
     "courseCode": "EC105",
     "time": "11-1",
@@ -405,7 +468,6 @@
     "time": "11-1",
     "room": "WS-2B"
   },
- 
   {
     "day": "Tuesday",
     "subject": "Reading Crime Fiction",
@@ -457,13 +519,6 @@
   },
   {
     "day": "Tuesday",
-    "subject": "Medieval World",
-    "courseCode": "HS405",
-    "time": "11-1",
-    "room": "N-4"
-  },
-  {
-    "day": "Tuesday",
     "subject": "India's Foreign Policy A",
     "courseCode": "PO610",
     "time": "11-1",
@@ -499,7 +554,14 @@
   },
   {
     "day": "Tuesday",
-    "subject": "Introduction to Global International Relations:\nNon-Western Perspective",
+    "subject": "Ph D Maths Representation Theory",
+    "courseCode": "Ph D Maths Representation Theory",
+    "time": "1.30-2.30",
+    "room": "71F"
+  },
+  {
+    "day": "Tuesday",
+    "subject": "Introduction to Global International Relations: Non-Western Perspective",
     "courseCode": "PO614",
     "time": "1.30-3.30",
     "room": "CR-1"
@@ -513,8 +575,8 @@
   },
   {
     "day": "Tuesday",
-    "subject": "Research Methods in Economics",
-    "courseCode": "EC121",
+    "subject": "MA English Structure and Practice",
+    "courseCode": "MA English Structure and Practice",
     "time": "1.30-3.30",
     "room": "CR-3"
   },
@@ -558,7 +620,14 @@
     "subject": "Microeconomics-1 B",
     "courseCode": "EC105",
     "time": "1.30-3.30",
-    "room": "CR-4"
+    "room": "N-5"
+  },
+  {
+    "day": "Tuesday",
+    "subject": "Community Mental Health",
+    "courseCode": "PS715",
+    "time": "1.30-3.30",
+    "room": "NL-2"
   },
   {
     "day": "Tuesday",
@@ -618,7 +687,7 @@
   },
   {
     "day": "Tuesday",
-    "subject": "Histories of Caste: Hierarchy, Identity and\nResistance in South Asia",
+    "subject": "Histories of Caste: Hierarchy, Identity and Resistance in South Asia",
     "courseCode": "HS433",
     "time": "3.30-5.30",
     "room": "WS-1A"
@@ -646,13 +715,6 @@
   },
   {
     "day": "Tuesday",
-    "subject": "YTOM",
-    "courseCode": "SE009",
-    "time": "3.30-5.30",
-    "room": "N-4"
-  },
-  {
-    "day": "Tuesday",
     "subject": "IASTN",
     "courseCode": "SE008",
     "time": "3.30-5.30",
@@ -667,8 +729,8 @@
   },
   {
     "day": "Tuesday",
-    "subject": "CL",
-    "courseCode": "SE010",
+    "subject": "Environment: Issues and Challenges (EIC) D",
+    "courseCode": "AE009",
     "time": "3.30-5.30",
     "room": "CR-11"
   },
@@ -702,8 +764,8 @@
   },
   {
     "day": "Wednesday",
-    "subject": "Introduction to Society and Culture in East Asia",
-    "courseCode": "HS431",
+    "subject": "Introduction to Indian Art and Architecture",
+    "courseCode": "HS435",
     "time": "9-11",
     "room": "CR-3"
   },
@@ -751,6 +813,34 @@
   },
   {
     "day": "Wednesday",
+    "subject": "Ph D Maths Approximation Theory",
+    "courseCode": "Ph D Maths Approximation Theory",
+    "time": "11-12",
+    "room": "71B"
+  },
+  {
+    "day": "Wednesday",
+    "subject": "Ph D Maths Numerical Analysis",
+    "courseCode": "Ph D Maths Numerical Analysis",
+    "time": "11-12",
+    "room": "71F"
+  },
+  {
+    "day": "Wednesday",
+    "subject": "Statistical Methods for Economics A",
+    "courseCode": "EC104",
+    "time": "11-1",
+    "room": "CR-1"
+  },
+  {
+    "day": "Wednesday",
+    "subject": "MA Research Methodolog y",
+    "courseCode": "MA Research Methodolog y",
+    "time": "11-1",
+    "room": "CR-3"
+  },
+  {
+    "day": "Wednesday",
     "subject": "Psychosocial Perspectives in Education",
     "courseCode": "PS734",
     "time": "11-1",
@@ -772,6 +862,13 @@
   },
   {
     "day": "Wednesday",
+    "subject": "Ph D English",
+    "courseCode": "Ph D English",
+    "time": "11-1",
+    "room": "WS-1A"
+  },
+  {
+    "day": "Wednesday",
     "subject": "Literatures of the Indian Subcontinent A",
     "courseCode": "EN201",
     "time": "11-1",
@@ -786,8 +883,8 @@
   },
   {
     "day": "Wednesday",
-    "subject": "Statistical Methods for Economics A",
-    "courseCode": "EC104",
+    "subject": "Medieval World",
+    "courseCode": "HS405",
     "time": "11-1",
     "room": "N-4"
   },
@@ -800,24 +897,31 @@
   },
   {
     "day": "Wednesday",
-    "subject": "Understanding personality B",
+    "subject": "Understanding Self and Personality B",
     "courseCode": "PS701",
     "time": "11-1",
     "room": "NL-2"
   },
   {
     "day": "Wednesday",
-    "subject": "Introduction to Sociological Concepts and Thinkers",
+    "subject": "Introduction to Sociological  Concepts and Thinkers",
     "courseCode": "SC819",
     "time": "11-1",
     "room": "CR-11"
   },
   {
     "day": "Wednesday",
-    "subject": "Understanding personality A",
+    "subject": "Understanding Self and Personality A",
     "courseCode": "PS701",
     "time": "11-1",
     "room": "301"
+  },
+  {
+    "day": "Wednesday",
+    "subject": "Numerical Analysis Lab",
+    "courseCode": "MA504",
+    "time": "11-12",
+    "room": "Lab-58"
   },
   {
     "day": "Wednesday",
@@ -870,7 +974,7 @@
   },
   {
     "day": "Wednesday",
-    "subject": "Bhartiya katha Sahitya evam anya Gadya Vidhayen\n(GE Hindi)",
+    "subject": "Bhartiya katha Sahitya evam anya Gadya Vidhayen (GE Hindi)",
     "courseCode": "GE310",
     "time": "1.30-3.30",
     "room": "WS-1A"
@@ -891,7 +995,14 @@
   },
   {
     "day": "Wednesday",
-    "subject": "Understanding the Past: Myths, Epics, Chronicles\nand Histories",
+    "subject": "Research Methods in Economics",
+    "courseCode": "EC121",
+    "time": "1.30-3.30",
+    "room": "NL-2"
+  },
+  {
+    "day": "Wednesday",
+    "subject": "Understanding the Past: Myths, Epics, Chronicles and Histories",
     "courseCode": "HS401",
     "time": "1.30-3.30",
     "room": "CR-11"
@@ -940,7 +1051,7 @@
   },
   {
     "day": "Wednesday",
-    "subject": "Protests, Resistance and Movements in Colonial\nIndia",
+    "subject": "Protests, Resistance and Movements in Colonial India",
     "courseCode": "HS436",
     "time": "3.30-5.30",
     "room": "WS-1A"
@@ -1027,7 +1138,7 @@
     "subject": "Statistical Methods for Economics B",
     "courseCode": "EC104",
     "time": "9-11",
-    "room": "N-4"
+    "room": "N-5"
   },
   {
     "day": "Thursday",
@@ -1136,13 +1247,6 @@
   },
   {
     "day": "Thursday",
-    "subject": "Medieval World",
-    "courseCode": "HS405",
-    "time": "11-1",
-    "room": "N-4"
-  },
-  {
-    "day": "Thursday",
     "subject": "India's Foreign Policy A",
     "courseCode": "PO610",
     "time": "11-1",
@@ -1178,7 +1282,14 @@
   },
   {
     "day": "Thursday",
-    "subject": "Introduction to Global International Relations:\nNon-Western Perspective",
+    "subject": "Ph D Maths Representation Theory",
+    "courseCode": "Ph D Maths Representation Theory",
+    "time": "1.30-2.30",
+    "room": "71F"
+  },
+  {
+    "day": "Thursday",
+    "subject": "Introduction to Global International Relations: Non-Western Perspective",
     "courseCode": "PO614",
     "time": "1.30-3.30",
     "room": "CR-1"
@@ -1192,8 +1303,8 @@
   },
   {
     "day": "Thursday",
-    "subject": "Research Methods in Economics",
-    "courseCode": "EC121",
+    "subject": "MA English Structure and Practice",
+    "courseCode": "MA English Structure and Practice",
     "time": "1.30-3.30",
     "room": "CR-3"
   },
@@ -1237,7 +1348,14 @@
     "subject": "Microeconomics-1 B",
     "courseCode": "EC105",
     "time": "1.30-3.30",
-    "room": "CR-4"
+    "room": "N-5"
+  },
+  {
+    "day": "Thursday",
+    "subject": "Community Mental Health",
+    "courseCode": "PS715",
+    "time": "1.30-3.30",
+    "room": "NL-2"
   },
   {
     "day": "Thursday",
@@ -1245,6 +1363,13 @@
     "courseCode": "SC803",
     "time": "1.30-3.30",
     "room": "CR-11"
+  },
+  {
+    "day": "Thursday",
+    "subject": "Bidhan MA Course",
+    "courseCode": "Bidhan MA Course",
+    "time": "1.30-3.30",
+    "room": "301"
   },
   {
     "day": "Thursday",
@@ -1297,7 +1422,7 @@
   },
   {
     "day": "Thursday",
-    "subject": "Histories of Caste: Hierarchy, Identity and\nResistance in South Asia",
+    "subject": "Histories of Caste: Hierarchy, Identity and Resistance in South Asia",
     "courseCode": "HS433",
     "time": "3.30-5.30",
     "room": "WS-1A"
@@ -1325,13 +1450,6 @@
   },
   {
     "day": "Thursday",
-    "subject": "YTOM",
-    "courseCode": "SE009",
-    "time": "3.30-5.30",
-    "room": "N-4"
-  },
-  {
-    "day": "Thursday",
     "subject": "IASTN",
     "courseCode": "SE008",
     "time": "3.30-5.30",
@@ -1346,8 +1464,8 @@
   },
   {
     "day": "Thursday",
-    "subject": "CL",
-    "courseCode": "SE010",
+    "subject": "Environment: Issues and Challenges (EIC) D",
+    "courseCode": "AE009",
     "time": "3.30-5.30",
     "room": "CR-11"
   },
@@ -1374,7 +1492,7 @@
   },
   {
     "day": "Friday",
-    "subject": "Democracy, Governance and Development: The\nIndian Experience",
+    "subject": "Democracy, Governance and Development: The Indian Experience",
     "courseCode": "PO635",
     "time": "9-11",
     "room": "CR-3"
@@ -1465,6 +1583,20 @@
   },
   {
     "day": "Friday",
+    "subject": "Ph D Maths Advanced Group Theory",
+    "courseCode": "Ph D Maths Advanced Group Theory",
+    "time": "11-12",
+    "room": "71B"
+  },
+  {
+    "day": "Friday",
+    "subject": "Ph D Maths Numerical Analysis",
+    "courseCode": "Ph D Maths Numerical Analysis",
+    "time": "11-12",
+    "room": "71F"
+  },
+  {
+    "day": "Friday",
     "subject": "Politics, Law and Society",
     "courseCode": "SC806",
     "time": "11-1",
@@ -1486,8 +1618,8 @@
   },
   {
     "day": "Friday",
-    "subject": "Community Mental Health",
-    "courseCode": "PS715",
+    "subject": "MA English",
+    "courseCode": "MA English",
     "time": "11-1",
     "room": "CR-4"
   },
@@ -1500,7 +1632,7 @@
   },
   {
     "day": "Friday",
-    "subject": "Neuropsychology A",
+    "subject": "Neuropsychology Through Clinical Cases A",
     "courseCode": "PS732",
     "time": "11-1",
     "room": "CR-6"
@@ -1570,7 +1702,7 @@
   },
   {
     "day": "Friday",
-    "subject": "Neuropsychology B",
+    "subject": "Neuropsychology Through Clinical Cases B",
     "courseCode": "PS732",
     "time": "11-1",
     "room": "308"
@@ -1591,8 +1723,8 @@
   },
   {
     "day": "Friday",
-    "subject": "PO637",
-    "courseCode": "PO637",
+    "subject": "Peace and Conflict Studies",
+    "courseCode": "PO636",
     "time": "1.30-3.30",
     "room": "CR-3"
   },
@@ -1689,14 +1821,14 @@
   },
   {
     "day": "Friday",
-    "subject": "Clinical Case Study - Practicum A",
+    "subject": "Clinical Case Study Method A",
     "courseCode": "PS711",
     "time": "3.30-5.30",
     "room": "301"
   },
   {
     "day": "Friday",
-    "subject": "Clinical Case Study - Practicum B",
+    "subject": "Clinical Case Study Method B",
     "courseCode": "PS711",
     "time": "3.30-5.30",
     "room": "308"
@@ -1717,7 +1849,7 @@
   },
   {
     "day": "Saturday",
-    "subject": "Democracy, Governance and Development: The\nIndian Experience",
+    "subject": "Democracy, Governance and Development: The Indian Experience",
     "courseCode": "PO635",
     "time": "9-11",
     "room": "CR-3"
@@ -1843,7 +1975,7 @@
   },
   {
     "day": "Saturday",
-    "subject": "Neuropsychology A",
+    "subject": "Neuropsychology Through Clinical Cases A",
     "courseCode": "PS732",
     "time": "11-1",
     "room": "CR-6"
@@ -1913,7 +2045,7 @@
   },
   {
     "day": "Saturday",
-    "subject": "Neuropsychology B",
+    "subject": "Neuropsychology Through Clinical Cases B",
     "courseCode": "PS732",
     "time": "11-1",
     "room": "308"
@@ -1934,8 +2066,8 @@
   },
   {
     "day": "Saturday",
-    "subject": "PO637",
-    "courseCode": "PO637",
+    "subject": "Peace and Conflict Studies",
+    "courseCode": "PO636",
     "time": "1.30-3.30",
     "room": "CR-3"
   },
@@ -2032,23 +2164,16 @@
   },
   {
     "day": "Saturday",
-    "subject": "Clinical Case Study - Practicum A",
+    "subject": "Clinical Case Study Method A",
     "courseCode": "PS711",
     "time": "3.30-5.30",
     "room": "301"
   },
   {
     "day": "Saturday",
-    "subject": "Clinical Case Study - Practicum B",
+    "subject": "Clinical Case Study Method B",
     "courseCode": "PS711",
     "time": "3.30-5.30",
     "room": "308"
-  },
-  {
-    "day": "Friday",
-    "subject": "Numerical Analysis",
-    "courseCode": "MA504",
-    "time": "9-11",
-    "room": "Lab-58"
   }
 ]
