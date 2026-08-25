@@ -25,38 +25,18 @@
     "semester": 1
   },
   {
-    "subjectCode": "NSUS1SE009",
-    "subjectName": "YTOM",
-    "semester": 1
-  },
-  {
-    "subjectCode": "NSUS1SE010",
-    "subjectName": "CL",
-    "semester": 1
-  },
-  {
     "subjectCode": "NSUS1SE011",
     "subjectName": "Introduction to C Language",
     "semester": 1
   },
   {
     "subjectCode": "NSUS1VA001",
-    "subjectName": null,
+    "subjectName": "Reading Mahabharata",
     "semester": 1
   },
   {
     "subjectCode": "NSUS1VA002",
-    "subjectName": null,
-    "semester": 1
-  },
-  {
-    "subjectCode": "NSUS1VA003",
-    "subjectName": null,
-    "semester": 1
-  },
-  {
-    "subjectCode": "NSUS1VA004",
-    "subjectName": null,
+    "subjectName": "Foundations of Bharatiya Knowledge System in Indian Political Philosophy and Ethical Consciousness",
     "semester": 1
   },
   {
@@ -86,7 +66,7 @@
   },
   {
     "subjectCode": "NSUS1SC819 - DSC",
-    "subjectName": "Introduction to Sociological  Concepts and Thinkers",
+    "subjectName": "Introduction to Sociological Concepts and Thinkers",
     "semester": 1
   },
   {
@@ -140,8 +120,18 @@
     "semester": 1
   },
   {
-    "subjectCode": "SWSUS1SE007",
-    "subjectName": "Introduction to Cybersecurity",
+    "subjectCode": "",
+    "subjectName": "English at the workplace",
+    "semester": 3
+  },
+  {
+    "subjectCode": "",
+    "subjectName": "Soft Skills",
+    "semester": 3
+  },
+  {
+    "subjectCode": "",
+    "subjectName": "Communication and Business Correspondence",
     "semester": 3
   },
   {
@@ -526,7 +516,7 @@
   },
   {
     "subjectCode": "NSUS1PO614 -DSC",
-    "subjectName": "Introduction to Global International Relations: Non-Western Perspective",
+    "subjectName": "Introduction to Global International Relations: Non- Western Perspective",
     "semester": 7
   },
   {
@@ -570,8 +560,8 @@
     "semester": 7
   },
   {
-    "subjectCode": "NSUS1EC135-DSE",
-    "subjectName": "Social Policy and Welfare",
+    "subjectCode": "NSUS1EC139-DSE",
+    "subjectName": "Theory of Industrial Organization",
     "semester": 7
   }
 ]
