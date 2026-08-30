@@ -71,13 +71,6 @@
   },
   {
     "day": "Monday",
-    "subject": "Ph D Maths Fractional Differential Equations",
-    "courseCode": "Ph D Maths Fractional Differential Equations",
-    "time": "11-12",
-    "room": "71F"
-  },
-  {
-    "day": "Monday",
     "subject": "Statistical Methods for Economics A",
     "courseCode": "EC104",
     "time": "11-1",
@@ -176,13 +169,6 @@
   },
   {
     "day": "Monday",
-    "subject": "Ph D English",
-    "courseCode": "Ph D English",
-    "time": "1.30-2.30",
-    "room": "71B"
-  },
-  {
-    "day": "Monday",
     "subject": "Public Economics: Theory and Policy",
     "courseCode": "EC111",
     "time": "1.30-3.30",
@@ -229,13 +215,6 @@
     "courseCode": "GE310",
     "time": "1.30-3.30",
     "room": "WS-1A"
-  },
-  {
-    "day": "Monday",
-    "subject": "Ph D Maths Advanced Group Theory",
-    "courseCode": "Ph D Maths Advanced Group Theory",
-    "time": "1.30-3.30",
-    "room": "SSR-1"
   },
   {
     "day": "Monday",
@@ -344,20 +323,6 @@
   },
   {
     "day": "Tuesday",
-    "subject": "Ph D Maths Approximation Theory",
-    "courseCode": "Ph D Maths Approximation Theory",
-    "time": "9-10",
-    "room": "71B"
-  },
-  {
-    "day": "Tuesday",
-    "subject": "Ph D Maths Fractional Differential Equations",
-    "courseCode": "Ph D Maths Fractional Differential Equations",
-    "time": "9-10",
-    "room": "71F"
-  },
-  {
-    "day": "Tuesday",
     "subject": "Theories of Marginality",
     "courseCode": "EN215",
     "time": "9-11",
@@ -446,13 +411,6 @@
     "courseCode": "MA540",
     "time": "11-12",
     "room": "71B"
-  },
-  {
-    "day": "Tuesday",
-    "subject": "Ph D Maths Numerical Analysis",
-    "courseCode": "Ph D Maths Numerical Analysis",
-    "time": "11-12",
-    "room": "71F"
   },
   {
     "day": "Tuesday",
@@ -565,13 +523,6 @@
     "courseCode": "PO606",
     "time": "1.30-3.30",
     "room": "305"
-  },
-  {
-    "day": "Tuesday",
-    "subject": "Ph D Maths Representation Theory",
-    "courseCode": "Ph D Maths Representation Theory",
-    "time": "1.30-2.30",
-    "room": "71F"
   },
   {
     "day": "Tuesday",
@@ -827,20 +778,6 @@
   },
   {
     "day": "Wednesday",
-    "subject": "Ph D Maths Approximation Theory",
-    "courseCode": "Ph D Maths Approximation Theory",
-    "time": "11-12",
-    "room": "71B"
-  },
-  {
-    "day": "Wednesday",
-    "subject": "Ph D Maths Numerical Analysis",
-    "courseCode": "Ph D Maths Numerical Analysis",
-    "time": "11-12",
-    "room": "71F"
-  },
-  {
-    "day": "Wednesday",
     "subject": "Statistical Methods for Economics A",
     "courseCode": "EC104",
     "time": "11-1",
@@ -873,14 +810,7 @@
     "courseCode": "SC815",
     "time": "11-1",
     "room": "CR-6"
-  },
-  {
-    "day": "Wednesday",
-    "subject": "Ph D English",
-    "courseCode": "Ph D English",
-    "time": "11-1",
-    "room": "WS-1A"
-  },
+  }
   {
     "day": "Wednesday",
     "subject": "Literatures of the Indian Subcontinent A",
@@ -938,7 +868,7 @@
     "room": "301"
   },
   {
-    "day": "Wednesday",
+    "day": "Friday",
     "subject": "Numerical Analysis Lab",
     "courseCode": "MA504",
     "time": "11-12",
@@ -1303,13 +1233,6 @@
   },
   {
     "day": "Thursday",
-    "subject": "Ph D Maths Representation Theory",
-    "courseCode": "Ph D Maths Representation Theory",
-    "time": "1.30-2.30",
-    "room": "71F"
-  },
-  {
-    "day": "Thursday",
     "subject": "Introduction to Global International Relations: Non- Western Perspective",
     "courseCode": "PO614",
     "time": "1.30-3.30",
@@ -1601,20 +1524,6 @@
     "courseCode": "PO605",
     "time": "11-1",
     "room": "305"
-  },
-  {
-    "day": "Friday",
-    "subject": "Ph D Maths Advanced Group Theory",
-    "courseCode": "Ph D Maths Advanced Group Theory",
-    "time": "11-12",
-    "room": "71B"
-  },
-  {
-    "day": "Friday",
-    "subject": "Ph D Maths Numerical Analysis",
-    "courseCode": "Ph D Maths Numerical Analysis",
-    "time": "11-12",
-    "room": "71F"
   },
   {
     "day": "Friday",
