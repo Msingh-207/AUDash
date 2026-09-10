@@ -847,7 +847,7 @@
     "room": "301"
   },
   {
-    "day": "Friday",
+    "day": "Wednesday",
     "subject": "Numerical Analysis Lab",
     "courseCode": "MA504",
     "time": "11-12",
@@ -1667,14 +1667,14 @@
   },
   {
     "day": "Friday",
-    "subject": "Party Politics in India A",
+    "subject": "Methods in Psychology A",
     "courseCode": "PS706",
     "time": "1.30-3.30",
     "room": "301"
   },
   {
     "day": "Friday",
-    "subject": "Party Politics in India B",
+    "subject": "Methods in Psychology B",
     "courseCode": "PS706",
     "time": "1.30-3.30",
     "room": "308"
@@ -2038,14 +2038,14 @@
   },
   {
     "day": "Saturday",
-    "subject": "Party Politics in India A",
+    "subject": "Methods in Psychology A",
     "courseCode": "PS706",
     "time": "1.30-3.30",
     "room": "301"
   },
   {
     "day": "Saturday",
-    "subject": "Party Politics in India B",
+    "subject": "Methods in Psychology B",
     "courseCode": "PS706",
     "time": "1.30-3.30",
     "room": "308"
