@@ -20,22 +20,22 @@
     "semester": 1
   },
   {
-    "subjectCode": "NSUS1SE008",
+    "subjectCode": "ASUS1SE008",
     "subjectName": "IASTN",
     "semester": 1
   },
   {
-    "subjectCode": "NSUS1SE011",
+    "subjectCode": "ASUS1SE009",
     "subjectName": "Introduction to C Language",
     "semester": 1
   },
   {
-    "subjectCode": "NSUS1VA001",
+    "subjectCode": "ASUS1VA001",
     "subjectName": "Reading Mahabharata",
     "semester": 1
   },
   {
-    "subjectCode": "NSUS1VA002",
+    "subjectCode": "ASUS1VA002",
     "subjectName": "Foundations of Bharatiya Knowledge System in Indian Political Philosophy and Ethical Consciousness",
     "semester": 1
   },
@@ -120,17 +120,22 @@
     "semester": 1
   },
   {
-    "subjectCode": "",
-    "subjectName": "English at the workplace",
-    "semester": 3
+    "subjectCode": "SWSUS1SE010",
+    "subjectName": "Soft Skills",
+    "semester": 1
   },
   {
-    "subjectCode": "",
+    "subjectCode": "SWSUS1SE010",
     "subjectName": "Soft Skills",
     "semester": 3
   },
   {
-    "subjectCode": "",
+    "subjectCode": "SWSUS1SE011",
+    "subjectName": "English at the workplace",
+    "semester": 3
+  },
+  {
+    "subjectCode": "SWSUS1SE012",
     "subjectName": "Communication and Business Correspondence",
     "semester": 3
   },
@@ -516,7 +521,7 @@
   },
   {
     "subjectCode": "NSUS1PO614 -DSC",
-    "subjectName": "Introduction to Global International Relations: Non- Western Perspective",
+    "subjectName": "Introduction to Global International Relations: Non-Western Perspective",
     "semester": 7
   },
   {
