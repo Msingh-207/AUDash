@@ -120,7 +120,7 @@
   },
   {
     "day": "Monday",
-    "subject": "Colonialism and Nationalism in India A",
+    "subject": "Colonialism and Nationalism in India B",
     "courseCode": "PO631",
     "time": "11-1",
     "room": "SSR-3"
@@ -218,22 +218,15 @@
   },
   {
     "day": "Monday",
-    "subject": "Feminism: Theory and Practice A",
-    "courseCode": "GE001",
+    "subject": "Research Methods in Economics",
+    "courseCode": "EC121",
     "time": "1.30-3.30",
     "room": "N-4"
   },
   {
     "day": "Monday",
-    "subject": "Feminism: Theory and Practice B",
+    "subject": "Feminism: Theory and Practice",
     "courseCode": "GE001",
-    "time": "1.30-3.30",
-    "room": "N-5"
-  },
-  {
-    "day": "Monday",
-    "subject": "Research Methods in Economics",
-    "courseCode": "EC121",
     "time": "1.30-3.30",
     "room": "NL-2"
   },
@@ -250,6 +243,13 @@
     "courseCode": "EN238",
     "time": "1.30-3.30",
     "room": "301"
+  },
+  {
+    "day": "Monday",
+    "subject": "Advanced Analysis Tutorial",
+    "courseCode": "MA540",
+    "time": "3.30-4.30",
+    "room": "71B"
   },
   {
     "day": "Monday",
@@ -295,7 +295,7 @@
   },
   {
     "day": "Monday",
-    "subject": "Colonialism and Nationalism in India B",
+    "subject": "Colonialism and Nationalism in India A",
     "courseCode": "PO631",
     "time": "3.30-5.30",
     "room": "N-5"
@@ -306,13 +306,6 @@
     "courseCode": "HS402",
     "time": "3.30-5.30",
     "room": "CR-11"
-  },
-  {
-    "day": "Monday",
-    "subject": "Bidhan MA Course",
-    "courseCode": "Bidhan MA Course",
-    "time": "3.30-5.30",
-    "room": "301"
   },
   {
     "day": "Tuesday",
@@ -477,7 +470,7 @@
   },
   {
     "day": "Tuesday",
-    "subject": "Hindi (Vyaharik / Madhyamik) D",
+    "subject": "Hindi (Vyaharik / Madhyamik) C",
     "courseCode": "AE006",
     "time": "11-1",
     "room": "SSR-3"
@@ -526,7 +519,7 @@
   },
   {
     "day": "Tuesday",
-    "subject": "Introduction to Global International Relations: Non- Western Perspective",
+    "subject": "Introduction to Global International Relations: Non-Western Perspective",
     "courseCode": "PO614",
     "time": "1.30-3.30",
     "room": "CR-1"
@@ -537,13 +530,6 @@
     "courseCode": "MA501",
     "time": "1.30-3.30",
     "room": "WS-2B"
-  },
-  {
-    "day": "Tuesday",
-    "subject": "MA English Structure and Practice",
-    "courseCode": "MA English Structure and Practice",
-    "time": "1.30-3.30",
-    "room": "CR-3"
   },
   {
     "day": "Tuesday",
@@ -589,6 +575,7 @@
   },
   {
     "day": "Tuesday",
+<<<<<<< HEAD
     "subject": "Microeconomics-1 B",
     "courseCode": "EC105",
     "time": "11-1",
@@ -596,6 +583,8 @@
   },
   {
     "day": "Tuesday",
+=======
+>>>>>>> 14747bb02a8f04e7d478dd61f3e37c0b8b819266
     "subject": "Community Mental Health",
     "courseCode": "PS715",
     "time": "1.30-3.30",
@@ -607,6 +596,13 @@
     "courseCode": "SC803",
     "time": "1.30-3.30",
     "room": "CR-11"
+  },
+  {
+    "day": "Tuesday",
+    "subject": "Microeconomics-1 B",
+    "courseCode": "EC105",
+    "time": "1.30-3.30",
+    "room": "301"
   },
   {
     "day": "Tuesday",
@@ -702,7 +698,7 @@
   {
     "day": "Tuesday",
     "subject": "Introduction to C Language",
-    "courseCode": "SE011",
+    "courseCode": "SE009",
     "time": "3.30-5.30",
     "room": "301"
   },
@@ -785,13 +781,6 @@
   },
   {
     "day": "Wednesday",
-    "subject": "MA Research Methodology",
-    "courseCode": "MA Research Methodology",
-    "time": "11-1",
-    "room": "CR-3"
-  },
-  {
-    "day": "Wednesday",
     "subject": "Psychosocial Perspectives in Education",
     "courseCode": "PS734",
     "time": "11-1",
@@ -827,7 +816,7 @@
   },
   {
     "day": "Wednesday",
-    "subject": "Colonialism and Nationalism in India A",
+    "subject": "Colonialism and Nationalism in India B",
     "courseCode": "PO631",
     "time": "11-1",
     "room": "SSR-3"
@@ -868,7 +857,7 @@
     "room": "301"
   },
   {
-    "day": "Friday",
+    "day": "Wednesday",
     "subject": "Numerical Analysis Lab",
     "courseCode": "MA504",
     "time": "11-12",
@@ -932,22 +921,15 @@
   },
   {
     "day": "Wednesday",
-    "subject": "Feminism: Theory and Practice A",
-    "courseCode": "GE001",
+    "subject": "Research Methods in Economics",
+    "courseCode": "EC121",
     "time": "1.30-3.30",
     "room": "N-4"
   },
   {
     "day": "Wednesday",
-    "subject": "Feminism: Theory and Practice B",
+    "subject": "Feminism: Theory and Practice",
     "courseCode": "GE001",
-    "time": "1.30-3.30",
-    "room": "N-5"
-  },
-  {
-    "day": "Wednesday",
-    "subject": "Research Methods in Economics",
-    "courseCode": "EC121",
     "time": "1.30-3.30",
     "room": "NL-2"
   },
@@ -1009,7 +991,7 @@
   },
   {
     "day": "Wednesday",
-    "subject": "Colonialism and Nationalism in India B",
+    "subject": "Colonialism and Nationalism in India A",
     "courseCode": "PO631",
     "time": "3.30-5.30",
     "room": "N-5"
@@ -1233,7 +1215,7 @@
   },
   {
     "day": "Thursday",
-    "subject": "Introduction to Global International Relations: Non- Western Perspective",
+    "subject": "Introduction to Global International Relations: Non-Western Perspective",
     "courseCode": "PO614",
     "time": "1.30-3.30",
     "room": "CR-1"
@@ -1244,13 +1226,6 @@
     "courseCode": "MA501",
     "time": "1.30-3.30",
     "room": "WS-2B"
-  },
-  {
-    "day": "Thursday",
-    "subject": "MA English Structure and Practice",
-    "courseCode": "MA English Structure and Practice",
-    "time": "1.30-3.30",
-    "room": "CR-3"
   },
   {
     "day": "Thursday",
@@ -1307,13 +1282,6 @@
     "courseCode": "SC803",
     "time": "1.30-3.30",
     "room": "CR-11"
-  },
-  {
-    "day": "Thursday",
-    "subject": "Bidhan MA Course",
-    "courseCode": "Bidhan MA Course",
-    "time": "1.30-3.30",
-    "room": "301"
   },
   {
     "day": "Thursday",
@@ -1408,15 +1376,8 @@
   },
   {
     "day": "Thursday",
-    "subject": "Environment: Issues and Challenges (EIC) D",
-    "courseCode": "AE009",
-    "time": "3.30-5.30",
-    "room": "CR-11"
-  },
-  {
-    "day": "Thursday",
     "subject": "Introduction to C Language",
-    "courseCode": "SE011",
+    "courseCode": "SE009",
     "time": "3.30-5.30",
     "room": "301"
   },
@@ -1545,13 +1506,6 @@
     "courseCode": "PO634",
     "time": "11-1",
     "room": "CR-3"
-  },
-  {
-    "day": "Friday",
-    "subject": "MA English",
-    "courseCode": "MA English",
-    "time": "11-1",
-    "room": "CR-4"
   },
   {
     "day": "Friday",
@@ -1737,6 +1691,13 @@
   },
   {
     "day": "Friday",
+    "subject": "Calculus Tutorial A",
+    "courseCode": "MA502",
+    "time": "3.30-4.30",
+    "room": "WS-2B"
+  },
+  {
+    "day": "Friday",
     "subject": "Hindi Sahitya Itihas ki rooprekha",
     "courseCode": "AE047",
     "time": "3.30-5.30",
@@ -1751,6 +1712,13 @@
   },
   {
     "day": "Friday",
+    "subject": "Introduction to Mathematical Thinking Tutorial B",
+    "courseCode": "MA501",
+    "time": "3.30-4.30",
+    "room": "WS-1A"
+  },
+  {
+    "day": "Friday",
     "subject": "Clinical Case Study Method A",
     "courseCode": "PS711",
     "time": "3.30-5.30",
@@ -1762,6 +1730,20 @@
     "courseCode": "PS711",
     "time": "3.30-5.30",
     "room": "308"
+  },
+  {
+    "day": "Friday",
+    "subject": "Introduction to Mathematical Thinking Tutorial A",
+    "courseCode": "MA501",
+    "time": "4.30-5.30",
+    "room": "WS-2B"
+  },
+  {
+    "day": "Friday",
+    "subject": "Calculus Tutorial B",
+    "courseCode": "MA502",
+    "time": "4.30-5.30",
+    "room": "WS-1A"
   },
   {
     "day": "Saturday",
@@ -1877,17 +1859,17 @@
   },
   {
     "day": "Saturday",
-    "subject": "Understanding Cinema",
-    "courseCode": "EN236",
-    "time": "11-1",
-    "room": "WS-2B"
-  },
-  {
-    "day": "Saturday",
     "subject": "Citizenship in the Contemporary World",
     "courseCode": "PO634",
     "time": "11-1",
     "room": "CR-3"
+  },
+  {
+    "day": "Saturday",
+    "subject": "Understanding Cinema",
+    "courseCode": "EN236",
+    "time": "11-1",
+    "room": "CR-4"
   },
   {
     "day": "Saturday",
@@ -2000,6 +1982,13 @@
     "courseCode": "PS716",
     "time": "1.30-3.30",
     "room": "CR-4"
+  },
+  {
+    "day": "Saturday",
+    "subject": "Marriage, Kinship and Family Forms",
+    "courseCode": "SC805",
+    "time": "1.30-3.30",
+    "room": "CR-5"
   },
   {
     "day": "Saturday",
