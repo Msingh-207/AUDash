@@ -575,16 +575,6 @@
   },
   {
     "day": "Tuesday",
-<<<<<<< HEAD
-    "subject": "Microeconomics-1 B",
-    "courseCode": "EC105",
-    "time": "11-1",
-    "room": "WS-1B"
-  },
-  {
-    "day": "Tuesday",
-=======
->>>>>>> 14747bb02a8f04e7d478dd61f3e37c0b8b819266
     "subject": "Community Mental Health",
     "courseCode": "PS715",
     "time": "1.30-3.30",
@@ -601,8 +591,8 @@
     "day": "Tuesday",
     "subject": "Microeconomics-1 B",
     "courseCode": "EC105",
-    "time": "1.30-3.30",
-    "room": "301"
+    "time": "11-1",
+    "room": "WS-1A"
   },
   {
     "day": "Tuesday",
