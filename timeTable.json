@@ -591,8 +591,8 @@
     "day": "Tuesday",
     "subject": "Microeconomics-1 B",
     "courseCode": "EC105",
-    "time": "11-1",
-    "room": "301"
+    "time": "1:30-3:30",
+    "room": "301/N-5"
   },
   {
     "day": "Tuesday",
@@ -1291,8 +1291,8 @@
     "day": "Thursday",
     "subject": "Microeconomics-1 B",
     "courseCode": "EC105",
-    "time": "11-1",
-    "room": "N-5"
+    "time": "1:30-3:30",
+    "room": "301/N-5"
   },
   {
     "day": "Thursday",
