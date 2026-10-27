@@ -12,7 +12,7 @@ Python is required to run this project.
 
 ```bash
 # clone the repository
-git clone [https://github.com/Msingh-207/AUDash.git](https://github.com/Msingh-207/AUDash.git)
+git clone https://github.com/Msingh-207/AUDash.git
 cd AUDash
 
 # install requirements (Flask, flask-cors, etc.)
