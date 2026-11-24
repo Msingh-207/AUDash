@@ -1,85 +1,30 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
-  <meta="author" content="Moksh Singh">
-  <meta name="keywords" content="Moksh Singh, AUDash,audash,AUD timetable,Br ambedkar University,AUD, Ambedkar University">
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="author" content="Moksh Singh">
+  <meta name="keywords" content="Moksh Singh, AUDash,audash,AUD timetable,Br ambedkar University,AUD, Ambedkar University">
   <meta name="description" content="AUDash is a platform for the students of Dr. B. R. Ambedkar University, Kashmere Gate(ONLY) to access their timetable effortlessly! Follow @van1sh.me for changes in the TT">
   <meta name="google-site-verification" content="SaF5qbfCq5hYRFRZgq7hrx_Ka8bqMuJhbYViWYRFRM4" />
+  <meta name="theme-color" media="(prefers-color-scheme: light)" content="#ffffff">
+  <meta name="theme-color" media="(prefers-color-scheme: dark)" content="#09090b">
   <title>AUDash</title>
-  <link rel="stylesheet" href="./frontend/style.css">
+  <link rel="icon" href="/favicon.svg" type="image/svg+xml">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;700&display=swap" rel="stylesheet">
+  <script>
+    // Apply the saved/system theme before React loads, so the page doesn't flash.
+    try {
+      var t = localStorage.getItem('theme');
+      if (t !== 'light' && t !== 'dark') t = matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
+      document.documentElement.dataset.theme = t;
+    } catch (e) {}
+  </script>
 </head>
-
 <body>
-  <div class="intro">
-    <div><div class="title"><p>AUDash</p><div class="img-container">
-      <a href="https://www.instagram.com/van1sh.me" target="_blank">
-        <img class="insta-logo" src="../frontend/images/instagram-brands-solid-full.svg">
-      </a>
-      <img class="settings-icon" src="../frontend/images/settings-2-svgrepo-com.svg"></div></div><br><p style="font-size: 12px;">Dashboard for all the students of AUD-KG<h6 class="change"></h6></p><div style="font-size: 10px; color: gray;">Made by Moksh Singh (B.A Economics 2nd year)</div></div>
-
-    
-    
-  </div>
-  <div class="settings is-visible">
-    <div class="semester-container">
-      <div class="semester-title"><h2>Select your Semester</h2></div>
-      <div class="semesters btn-div">
-      <button id="1" class="semester">Semester 1</button>
-      <button id="3" class="semester">Semester 3</button>
-      <button id="5" class="semester">Semester 5</button>
-      <button id="7" class="semester">Semester 7</button>
-      </div>
-    </div>
-
-
-    <div class="subjects">
-      <h2>Select your Subjects</h2>
-      <select id="subject-1">
-        <option value="">Select Subject 1</option>
-      </select>
-      <select id="subject-2">
-        <option value="">Select Subject 2</option>
-      </select>
-      <select id="subject-3">
-        <option value="">Select Subject 3</option>
-      </select>
-      <select id="subject-4">
-        <option value="">Select Subject 4</option>
-      </select>
-      <select id="subject-5">
-        <option value="">Select Subject 5</option>
-      </select>
-    </div>
-
-    <div class="generate">
-      <button id="generateTimetable">Generate timetable</button>
-    </div>
-  </div>
-  <div class="days-container">
-      <div class="day-title"><h2>Select your Day</h2></div>
-      <div class="days btn-div">
-      <button id="monday" class="day">Monday</button>
-      <button id="tuesday" class="day">Tuesday</button>
-      <button id="wednesday" class="day">Wednesday</button>
-      <button id="thursday" class="day">Thursday</button>
-      <button id="friday" class="day">Friday</button>
-      <button id="saturday" class="day">Saturday</button>
-      </div>
-    </div>
-  <div class="timetable">
-    <div id="classes" class="classes">
-    <!-- <div class="output">
-      <img src="images/book_5_24dp_1F1F1F_FILL0_wght400_GRAD0_opsz24.svg">  Subject: ${item.subject} |
-      <img src="images/sensor_door_24dp_1F1F1F_FILL0_wght400_GRAD0_opsz24.svg"> Room: ${item.room} |
-      <img src="images/clock_loader_10_24dp_1F1F1F_FILL0_wght400_GRAD0_opsz24.svg"> Time: ${item.time}
-      <img src="images/calendar_month_24dp_1F1F1F_FILL0_wght400_GRAD0_opsz24.svg"> Day: ${item.day}
-       </div>-->
-    </div>
-  </div>
+  <div id="root"></div>
+  <script type="module" src="/src/main.jsx"></script>
 </body>
-<script src="../backend/index.js"></script>
-<script src="./frontend/main.js"></script>
 </html>
