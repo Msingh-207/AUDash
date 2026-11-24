@@ -17,7 +17,7 @@ export default function Footer() {
         for timetable updates
       </p>
       <p className="footer-credit">
-        Design inspired by{' '}
+        Based on{' '}
         <a href="https://planner.codelif.in/" target="_blank" rel="noreferrer">JIITPlanner</a>
       </p>
       <a className="footer-github" href={REPO_URL} target="_blank" rel="noreferrer">
