@@ -23,15 +23,31 @@ function initialTheme() {
   return window.matchMedia?.('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'
 }
 
-// Re-render once a minute so the "Now" highlight moves with the clock.
+// Re-render at the start of each minute so the "Now" highlight moves with the clock.
+// The timer stops while the tab is hidden, so a backgrounded tab does no work.
 function useNow() {
   const [now, setNow] = useState(() => new Date())
   useEffect(() => {
-    const id = setInterval(() => setNow(new Date()), 60_000)
-    return () => clearInterval(id)
+    let timer
+    const tick = () => {
+      setNow(new Date())
+      timer = setTimeout(tick, 60_000 - (Date.now() % 60_000))
+    }
+    const onVisibility = () => {
+      clearTimeout(timer)
+      if (!document.hidden) tick()
+    }
+    onVisibility()
+    document.addEventListener('visibilitychange', onVisibility)
+    return () => {
+      clearTimeout(timer)
+      document.removeEventListener('visibilitychange', onVisibility)
+    }
   }, [])
   return now
 }
+
+const SUBJECT_CHANGE_DELAY = 400 // ms to wait for more subject picks before fetching
 
 export default function App() {
   const [theme, setTheme] = useState(initialTheme)
@@ -46,42 +62,64 @@ export default function App() {
   const [filtersOpen, setFiltersOpen] = useState(() => storage.loadSubjects().length === 0)
   const now = useNow()
   const timetableRequest = useRef(0)
+  const firstTimetableLoad = useRef(true)
+  const optionsCache = useRef(new Map()) // semester -> subject names
 
   useEffect(() => {
     document.documentElement.dataset.theme = theme
     storage.saveTheme(theme)
   }, [theme])
 
-  // Load the subject list whenever the semester changes (including the saved one on first load).
+  // The subject list is only needed in the filters panel, so load it when the panel is
+  // open (returning users start with it closed and skip these requests entirely).
   useEffect(() => {
-    if (!semester) return
+    if (!semester || !filtersOpen) return
+    const cached = optionsCache.current.get(semester)
+    if (cached) {
+      setSubjectOptions(cached)
+      return
+    }
     let cancelled = false
     setOptionsLoading(true)
     fetchSubjectOptions(semester)
-      .then((opts) => !cancelled && setSubjectOptions(opts))
+      .then((opts) => {
+        optionsCache.current.set(semester, opts)
+        if (!cancelled) setSubjectOptions(opts)
+      })
       .catch(console.error)
       .finally(() => !cancelled && setOptionsLoading(false))
     return () => { cancelled = true }
-  }, [semester])
+  }, [semester, filtersOpen])
 
-  // Refetch the timetable whenever the chosen subjects change.
+  // Refetch the timetable when the chosen subjects change. Quick successive picks are
+  // batched into one request; the first load (refreshing saved data) goes out at once.
   useEffect(() => {
     storage.saveSubjects(selected)
+    const id = ++timetableRequest.current
     if (selected.length === 0) {
       setTimetable([])
       storage.saveTimetable([])
+      setTimetableLoading(false)
       return
     }
-    const id = ++timetableRequest.current
     setTimetableLoading(true)
-    fetchTimetable(selected)
-      .then((data) => {
-        if (id !== timetableRequest.current) return
-        setTimetable(data)
-        storage.saveTimetable(data)
-      })
-      .catch(console.error)
-      .finally(() => id === timetableRequest.current && setTimetableLoading(false))
+    const delay = firstTimetableLoad.current ? 0 : SUBJECT_CHANGE_DELAY
+    firstTimetableLoad.current = false
+    const timer = setTimeout(() => {
+      fetchTimetable(selected)
+        .then((data) => {
+          if (id !== timetableRequest.current) return
+          const json = JSON.stringify(data)
+          // Skip the re-render when the refreshed data matches what's on screen.
+          if (json !== JSON.stringify(storage.loadTimetable())) {
+            setTimetable(data)
+            storage.saveTimetable(json)
+          }
+        })
+        .catch(console.error)
+        .finally(() => id === timetableRequest.current && setTimetableLoading(false))
+    }, delay)
+    return () => clearTimeout(timer)
   }, [selected])
 
   function handleSemesterChange(sem) {

@@ -11,9 +11,6 @@
   <meta name="theme-color" media="(prefers-color-scheme: dark)" content="#09090b">
   <title>AUDash</title>
   <link rel="icon" href="/favicon.svg" type="image/svg+xml">
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;700&display=swap" rel="stylesheet">
   <script>
     // Apply the saved/system theme before React loads, so the page doesn't flash.
     try {
@@ -24,7 +21,17 @@
   </script>
 </head>
 <body>
-  <div id="root"></div>
+  <div id="root">
+    <!-- Static header shown while the app's JavaScript loads (React replaces it). -->
+    <div class="app">
+      <header class="navbar">
+        <div class="navbar-inner">
+          <div class="wordmark"><span class="wordmark-strong">AUD</span><span class="wordmark-light">ash</span></div>
+        </div>
+      </header>
+      <main class="main"></main>
+    </div>
+  </div>
   <script type="module" src="/src/main.jsx"></script>
 </body>
 </html>
