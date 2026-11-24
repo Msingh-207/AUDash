@@ -42,7 +42,8 @@
 
 *, *::before, *::after { box-sizing: border-box; -webkit-tap-highlight-color: transparent; }
 
-html, body { margin: 0; overflow-x: hidden; overscroll-behavior: none; }
+/* No overscroll-behavior: none here — it disables pull-to-refresh on phones. */
+html, body { margin: 0; overflow-x: hidden; }
 
 body {
   background: var(--background);
@@ -287,6 +288,9 @@ button:disabled { cursor: not-allowed; }
 
 /* ---------- Footer ---------- */
 .footer {
+  /* Sticks to the bottom of the screen so long class lists can't push it out of view */
+  position: sticky; bottom: 0; z-index: 50;
+  background: var(--background);
   display: flex; flex-direction: column; align-items: center; gap: 0.5rem;
   border-top: 1px solid var(--border);
   /* Extra bottom space so it clears the home-indicator bar on notched phones */
@@ -303,6 +307,7 @@ button:disabled { cursor: not-allowed; }
   transition: background-color 0.15s;
 }
 .footer-github:hover { background: var(--border); }
+.footer-credit { font-size: 0.75rem; }
 
 @media (max-width: 480px) {
   .navbar-inner { padding: 0.75rem 1rem; }
@@ -311,4 +316,7 @@ button:disabled { cursor: not-allowed; }
   .timeline-row { grid-template-columns: 1rem 1fr; gap: 0.75rem; }
   .timeline-label { display: none; }
   .card-title { font-size: 1.25rem; }
+  .footer { gap: 0.375rem; padding: 0.625rem 1rem calc(0.625rem + env(safe-area-inset-bottom)); font-size: 0.75rem; }
+  .footer-credit { font-size: 0.6875rem; }
+  .footer-github { padding: 0.25rem 0.75rem; font-size: 0.75rem; }
 }

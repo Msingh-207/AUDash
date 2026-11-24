@@ -16,6 +16,10 @@ export default function Footer() {
         <a href="https://www.instagram.com/van1sh.me" target="_blank" rel="noreferrer">@van1sh.me</a>{' '}
         for timetable updates
       </p>
+      <p className="footer-credit">
+        Design inspired by{' '}
+        <a href="https://planner.codelif.in/" target="_blank" rel="noreferrer">JIITPlanner</a>
+      </p>
       <a className="footer-github" href={REPO_URL} target="_blank" rel="noreferrer">
         <GitHubMark /> View source on GitHub
       </a>
